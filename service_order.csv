@@ -1,0 +1,597 @@
+id,customer_id,status,total_amount_products,total_amount_services,discount,total_amount,received_at,realized_at,delivery_at,equipments_description,defects_description,technical_report,warranty,created_at
+1,2,5,239.50,52.00,0.00,291.50,1549293569964,1549293585069,1549552789144,,vazamento reservatório principal de envaze,"colar com p.u. 40 internamente colado duas vezes , feito cinturão de inox para retirar a tampa.",,1549293585069
+2,1,5,0.00,104.00,0.00,104.00,1549293635948,1549293638718,1549552693838,,,troca de rolamento e ajuste facão de corte,,1549293638718
+3,5,5,1301.00,208.00,0.00,1509.00,1551111273231,1551197680533,1551197686748,,,,,1551197680533
+4,7,5,360.00,52.00,0.00,412.00,1551198090580,1551284495126,1551284498617,,,,,1551284495126
+5,8,5,5.51,13.00,0.00,18.51,1551349780943,1551349816735,1551349818572,,torneira com vazamento,trocar torneira,,1551349816735
+6,9,5,4.53,26.00,0.00,30.53,1551349972639,1551350029570,1551350033012,,estrutura torta batida de caminhao,cortado estrutura em pontos espessificos e compensado parcialmente,,1551350029570
+7,3,5,161.00,26.00,0.00,187.00,1551899967693,1551899983952,1551899988532,,bomba pneumática de retorno não aciona,defeito na válvula solenóide - trocar,,1551899983952
+8,2,5,0.00,159.20,0.00,159.20,1564659629862,1566387634155,1566387639736,,fabricação de guia para destrave de gargalo causando quebra de bicos.,guia técnico desenhado com medidas tiradas no equipamento,,1566387634155
+9,10,5,6.04,19.80,0.00,25.84,1566396306941,1566396463943,1566396467652,,deficuldade em empilhar bambinas de 25 litros vazia.,"feito dois suportes de ferro redondo 1/2"" com sapatas de tala furada pra pregar no palete
+",,1566396463943
+10,11,5,0.00,13.50,0.00,13.50,1566407537551,1566407546913,1566409372984,,motor do chupim caio a chaveta e rodou o eixo.,retirado motor e levado a oficina feito acentamento da polia e colocado um estojo para segurar a chaveta ( aberto rosca nova ) remontado e feito ligação nova.,,1566407546913
+11,14,1,2765.00,104.00,0.00,2869.00,1565289736973,1566412942686,,deficiência na quantidade de água para refrigeração das maquinas,demora por ciclo ,"
+fazer limpeza por sucção. entupimento por folhas ",feito limpeza com o caminhão limpa fossa / entupimento por folhas / fazer telhado sobre caixa reservatório .,1566412942686
+13,17,5,45.00,39.00,0.00,84.00,1565303346485,1565303349607,1565303355505,elevador de canecos ,correia cinta de canecos arrebentada,refazer emenda ,,1565303349607
+14,17,5,9.00,13.00,0.00,22.00,1566340400957,1566340405267,1566340409912,,vazamento de ar,"mangueira pneumática estourada, trocar ",,1566340405267
+15,14,5,0.00,450.00,0.00,450.00,1566306287399,1566479099613,1566479068250,tanque de resfriamento e tubulações,ineficiência de refrigeracao,limpeza de tanque e tubulações com limpa fossa,,1566479099613
+16,12,5,38.50,26.00,0.00,64.50,1566428066168,1566428066168,,envasadora amaciante ,mangueira escoamento de limpeza liberando para piso,levar a mangueira até a calha,,1566428066168
+17,12,5,0.00,0.00,0.00,0.00,1566428492932,1566514926318,,,sensor fim de curso mesa de bicos porca plástica quebrada,procurar porca nos sensores antigos ,,1566514926318
+18,12,5,0.00,0.00,0.00,0.00,1566428757571,1566426472450,1567525048079,tampador linha amaciante,batidas estalos parte superior tapador,motor e eixo suporte de cabeça de torque rolamentos trocar. ,,1566426472450
+19,12,4,0,0,0.00,0.00,1566429004266,1566429004266,,,peça retorno ( trocar),verificar ????,,1566429004266
+20,13,5,0.00,0.00,0.00,0.00,1566429084998,1614354560473,1614354561977,,suporte da régua dentada gabarito de gargalo com roscas espanadas,refazer rosca e colocar manipo no lugar dos estojos ,,1614354560473
+21,13,5,0.00,0.00,0.00,0.00,1566429235239,1566429235239,,,mangueira de retorno bico n° 10 furada,trocar mangueira,,1566429235239
+22,18,5,0.00,0.00,0.00,0.00,1566429498647,1566429498647,,fechadeira linha 1 e 2 litros ,rodízio com freio quebrado,trocar ( comprado sapatas fixas).,,1566429498647
+23,18,5,0.00,0.00,0.00,0.00,1566429607255,1566429607255,,mesa de embalagens,chapa solta,soldar,,1566429607255
+26,19,5,0.00,0.00,0.00,0.00,1566429893909,1567439135171,,tampador,folga no eixo da estrela ,"trocar rolamento, mudar estrutura, fabricar eixo novo, sincronizar estrela, refazer mancal cruz de malta, tirar infiltração da mesa.",,1567439135171
+27,20,5,0.00,0.00,0.00,0.00,1566430036491,1566430036491,,,base solta,colocar guia de curso ,,1566430036491
+28,21,5,150.00,208.00,0.00,358.00,1566430247984,1566430247984,1578507662240,fabricação guincho para plataforma ,plataforma perigosa e ineficiente,fabricação ,,1566430247984
+29,4,5,35.00,13.00,0.00,48.00,1566475689355,1566475695929,1566475697878,,plataforma das garrafas não sobe,"ar comprimido registro fechado, aproveitado para abastecer lubrifil ",,1566475695929
+30,17,5,6.50,13.00,0.00,19.50,1566476034817,1566476050284,1566476052824,,embaladora a vácuo deixando fardo frouxo,"entrada de ar falso na tampa, limpeza e ajuste da vedação ",,1566476050284
+31,21,5,15.00,26.00,0.00,41.00,1566478324838,1566478333408,1566478335363,,motor bomba parafuso reserva queimando motor,"motor sem blindagem inadequado para o uso. trocar por motor blindado - negado 
+colocar capa de proteção "" telhado"" - feito.",,1566478333408
+32,3,5,0.20,13.00,0.00,13.20,1566481524392,1566481538554,1566481540460,,não libera tampa para o taoador,"sensor leitura das garrafas fora de sincronia, ajustado.",,1566481538554
+33,4,5,97.00,52.00,0.00,149.00,1566482174805,1566588635483,1566944751127,,"vazamento , caixa rachada ","levado caixa para aplicação de fibra, trocado válvula acionadora, reformado pistão pneumático, trocado mangueiras pneumáticas, refeito soldas da estrutura.",,1566588635483
+34,21,5,0.00,0.00,0.00,0.00,1566498917982,1566498935706,,máquina de esponja,"rolamento eixo aranha quebrado, eixo morto, eixo tração do fio rolamento quebrado, eixo morto.","troca de rolamento, refazer acentamento de rolamentos, fabricar arame da aranha, ( fabricado dois eixos novos )
+",,1566498935706
+35,2,5,0.00,476.00,0.00,476.00,1549442729660,1566467106319,1566812739002,,tanque de retorno vazamento,levar para conserto com revestimento em fibra ,,1566467106319
+36,14,5,0.00,0.00,0.00,0.00,1566818841777,1566818863863,,moto esmeril,moto esmeril não liga ,"queimado, levar para rebobinagem/ comprar novo.",,1566818863863
+37,22,5,0.00,0.00,0.00,0.00,1566821104334,1566821150002,1566832672628,extrusora 01,bomba perdeu pressao,"compra de filtro, verificar bomba, / limpeza filtro, verificação de bomba não aprovado. ( foi desmontado motor e tampa do reservatório e desobstruído filtro entrada da bomba e remontado).","sem garantia : bomba precisando de retifica, filtro velho saturado, reservatório saturado de sujeira. óleo velho saturado, ",1566821150002
+38,2,5,0.00,0.00,0.00,0.00,1566838379820,1566838395182,1566838396952,,vedação de gargalo vazando.,trocar vedação ( 16 peças ),,1566838395182
+39,11,5,0.00,0.00,0.00,0.00,1566895956188,1566895956188,,chupim da balança ,correia cantando,apertar,,1566895956188
+41,3,5,0.00,0.00,0.00,0.00,1566900768034,1578507610343,1614272281247,máquina água 1 e 2 litros ,fazer tubulação nova para lavação das máquinas.,colocado mangueira de jardim próximo a máquina de 5 litros ,,1578507610343
+42,18,5,0.00,0.00,0.00,0.00,1566900886301,1566991057438,1566991061197,,máquina fexadeira de caixa água sanitária estragando fita.,trocar navalha inferior (trocado).,,1566991057438
+43,4,5,0.00,0.00,0.00,0.00,1566991255696,1566991266330,1566991268000,,vazamento bicos.,trocar vedações e polir haste vedante. ( feito).,,1566991266330
+44,10,5,0.00,0.00,0.00,0.00,1566991634758,1566991634758,,tanque amaciante ,dois registros com vazamento ,trocar ,,1566991634758
+45,10,5,0.00,0.00,0.00,0.00,1566991802252,1579112362088,,desinfetante,colocar registro para limpeza do tanque ,,Vairton ,1579112362088
+46,21,5,0.00,0.00,0.00,0.00,1566300814669,1567094531924,,bomba caracol tacho do sabão ( bomba principal),não tem pressão.,reforma / terceiros / peças novas/ trocar todos os componentes internos.,,1567094531924
+49,2,5,0.00,0.00,0.00,0.00,1567080422173,1567080431122,1567080433412,,bicos 2 e 15 entupidos.,desmontado e retirado sobras de plástico ,,1567080431122
+50,2,5,0.00,0.00,0.00,0.00,1567080569658,1567080586875,1567080588511,,tampa sem aperto.,verificado e ajustado cabeça de torque.tamoas com rebarba.,,1567080586875
+51,18,5,0.00,40.00,0.00,40.00,1567080993696,1567081009787,,fechadoras geral,afiar navalhas reserva ,mandado para terceiros.,,1567081009787
+52,22,5,0.00,0.00,0.00,0.00,1567100106993,1567100152089,,extrusora 01,sem pressão ,retirado bomba novamente para levar para retifica / trocar filtro - negado / filtrar óleo do reservatório - negado.,,1567100152089
+53,22,5,0.00,0.00,0.00,0.00,1567165408576,1567165422778,1567165427675,extrusora 01,"montar bomba que veio do conserto.
+",montagem de bomba e motor e solenóides.,,1567165422778
+54,18,5,0.00,0.00,0.00,0.00,1567430418781,1567430450940,1567430453213,fechadeira desinfetante.,condutor de fita quebrado / fabricado novo com lata de tinta / muito fino ideal comprar original .,fabricado com material inadequado pela terceira vez. ,,1567430450940
+55,19,5,0.00,0.00,0.00,0.00,1567430635604,1567430648086,1567430649773,,envase devagar bomba demorada.,limpado filtros / ajustado tempos e velocidade de bomba / tirado vazamentos.,,1567430648086
+56,5,5,0.00,0.00,0.00,0.00,1567430820810,1567430834576,1567430836732,,água na rede ,purgador compressor e secador ,,1567430834576
+57,22,5,0,0,0.00,0.00,1567430989995,1567431001012,1567431002700,,parafusos de molde travados,cortado todos,,1567431001012
+58,4,5,0.00,0.00,0.00,0.00,1567431470209,1567431470209,,,bóia quebrada ,comprar nova ( boia 3/4 com flutuador ),,1567431470209
+59,10,5,0.00,0.00,0.00,0.00,1567431705453,1579112303608,,,fabricar alça para bambona 50 l.,fabricação oficina ,,1579112303608
+60,23,5,0.00,0.00,0.00,0.00,1567439899728,1568312263859,,,portão dobradiça quebrada,soldar ,,1568312263859
+61,10,5,0.00,0.00,0.00,0.00,1567451449865,1567451449865,,macaco hidráulico virador de tambor,cinta quebrada,fazer novos ganchos da cinta ,parafuso 3/ 8 20 pcs,1567451449865
+62,6,5,0.00,0.00,0.00,0.00,1567509346807,1567509385142,1567509386896,,deixado encalhar uma toalha debaixo da calha do tamoador,desmontado e montado e regulado.,,1567509385142
+63,4,5,0.00,0.00,0.00,0.00,1567510450379,1567510461974,1567510463311,,trocar bóia ,trocado bóia ,,1567510461974
+64,18,5,0.00,0.00,0.00,0.00,1567511886892,1567511901669,1567511903374,fechadeira de caixa desinfetante ,travando engalhando,muito apertada trancando as caixas.,,1567511901669
+65,18,5,0.00,0.00,0.00,0.00,1567519276034,1567519291308,1567519294116,fechadeira água sabitaria,condutor de fita inferior quebrado,feito chapinha nova ,,1567519291308
+66,18,5,0.00,0.00,0.00,0.00,1567519429468,1567519438983,,fechadeira desinfetante,motor arrasto inferior com stator de partida queimado,"trocar stator , solda protecao de navalhas , lubrificação , chapinha condutora de fita ",,1567519438983
+67,14,5,0.00,0.00,0.00,0.00,1567526276177,1567526293519,1567526295274,,base dos pistões quebrado,soldado.,,1567526293519
+68,16,5,0.00,13.00,0.00,13.00,1578508025887,1578508035951,1578508037386,moinho martelo ,troca de peneiras furadas,corpo metálico perfurou 3 segmentos da peneira,,1578508035951
+69,18,5,0.00,39.00,0.00,39.00,1578421832287,1578508234726,1578508236498,fechadeira de caixa desinfetante ,motor tapete inferior não liga ,capacitor de partida queimado / trocar ,,1578508234726
+70,18,5,0.00,0.00,0.00,0.00,1578508376414,1578594803634,1578508406475,fechadeira de caixa detergente 500 ml,inverter rotação dos motores ,emprestada para o desinfetante e tomada com ligação inversa ,,1578594803634
+71,18,5,0.00,0.00,0.00,0.00,1578508510833,1578508518390,1578508519793,fechadeira de caixa detergente 500 ml,inverter rotação ,retornou do empréstimo para o desinfetante ,,1578508518390
+72,19,5,0.00,0.00,0.00,0.00,1578508635322,1578508653763,1578508655702,,vazamento no gargalo máquina desrregulada,nivelamento do pente porta bicos e nivelamento de tapete de transporte ,,1578508653763
+73,19,5,0.00,0.00,0.00,0.00,1578508827270,1578508880767,1578508882792,tampador ,regulagem ,muita folga na cruz de malta  / fabricar nova ,,1578508880767
+74,24,5,0.00,0.00,0.00,0.00,1578422675710,1578595480670,1578509085081,tubulação retorno de lavação / retorno para sabão ,retorno de lavação para sabão indo sem controle,montar tubulação nova dos tanques para depósito do retorno do sabão ,,1578595480670
+75,4,5,0.00,0.00,0.00,0.00,1578509248845,1578509268142,1578509269829,,boia quebrada ,"trocado boia / pouca vazão comprar maior ( 3/4"") ",,1578509268142
+76,3,5,0.00,0.00,0.00,0.00,1578509351106,1578509365537,1578916207555,,mangueira rachada / troca aguarda material ,trocado mangueira e abraçadeira ,,1578509365537
+77,24,5,0.00,0.00,0.00,0.00,1578509447780,1578509511888,1578600098108,tanque água sanitária 6000l,vazamento acoplador da saída do tanque ,fabricar acoplador novo ,,1578509511888
+78,21,5,0.00,0.00,0.00,0.00,1578509743143,1578509766495,,máquina de esponjas ,aranha com garfos quebrados ,fabricar com arame inox 4mm,,1578509766495
+79,24,5,0.00,0.00,0.00,0.00,1578509927347,1614354625937,1614354627475,tubulação de água limpa abastecer tanques de elaboração ,tubulação com pouca vazão ,aumentar bitola dos tubos / rede nova ,,1614354625937
+80,26,5,0.00,0.00,0.00,0.00,1578569204327,1578569243759,1578569245364,suporte de bateria,fundo podre bateria caindo ,refeito fundo do suporte ,,1578569243759
+81,3,5,0.00,0.00,0.00,0.00,1578569341579,1578569359885,1578569361272,bico de envase,porca do intermediário quebrada ,troca por porca de PVC nova ,,1578569359885
+82,2,5,0.00,0.00,0.00,0.00,1578487170533,1578573566023,1578573567308,2 bicos quebrados ,troca ,,,1578573566023
+83,27,1,0.00,0.00,0.00,0.00,1578573756529,1578573756529,,tanque superior de retorno de água ,vazamentos diversos / molhando pátio e oficina ,substituir tanque de alvenaria por caixa de fibra ,,1578573756529
+84,28,5,0.00,0.00,0.00,0.00,1578599825815,1578599865705,1578599867344,ventilador máquina esponja ,motor travado ,destravado motor rodou por 1 hora e queimou / descartado.,,1578599865705
+85,24,5,0.00,0.00,0.00,0.00,1578599953261,1578599963486,1578599964889,tubulação tanque detergente 1 litro soltou conexão logo após o tanque de armazenamento ,pisado na conexão por acidente ,colado novamente ,,1578599963486
+86,23,5,0.00,0.00,0.00,0.00,1578600151463,1578600170707,1578600172060,silo de estocagem de milho ,quebra do suporte de cabo elétrico do varredor ,desempeno e recolocar suporte ,,1578600170707
+87,29,5,0.00,0.00,0.00,0.00,1578600299933,1578600355154,1578600356825,geladeira cada Sr. Zavaski,falta de molas das formas de gelo ,fabricar com arame inox ,,1578600355154
+88,4,5,0.00,0.00,0.00,0.00,1578916230184,1578916241123,1578916242576,,trancando e lento ,lubrificar / encher reservatório lubrifil/ lubrificar vedações ,,1578916241123
+89,30,5,0.00,0.00,0.00,0.00,1578934238953,1578934295854,1578934297392,cilindro de subida da sapata lento e vazamento na boia,válvula reguladora de expurgo quebrada tubulação fora de posição forçando a bóia ,troca de válvula de expurgo e posicionado tubulação ,,1578934295854
+90,21,5,0.00,0.00,0.00,0.00,1578940375040,1578940388970,1578940390557,máquina esponja ,ventilador quebrafo,"lubrificar eixo , prender telas, revisar elétrica ",,1578940388970
+91,20,5,0.00,0.00,0.00,0.00,1579031836128,1579031853686,1579031855155,,mangueira ar vazando ,trocado mangueira 6mm,,1579031853686
+92,18,5,0.00,0.00,0.00,0.00,1579031918199,1579031933469,1579031934873,fechadeira de caixa desinfetante ,não liga ,cabo de alimentação arrancado na entrada da chave / refeito instalação ,,1579031933469
+93,28,5,0.00,0.00,0.00,0.00,1579032057586,1579032068024,1579032070163,ventilador de parede detergente 500ml,não liga,tirado para verificar / colocar novo ,,1579032068024
+94,18,5,0.00,0.00,0.00,0.00,1579103638305,1579103658244,1579103660032,fechadeira de caixa água sanitária 1l,fileira de entrada faltando parafuso rolo caindo ,colocado parafusos novos ,,1579103658244
+95,3,5,0.00,0.00,0.00,0.00,1579103731822,1579103747704,1579103749224,bomba de retorno tipo girafa,fazer instalação para bomba girafa trifásica ,instalado relé 24v contactar 220/380 alimentação cabimento e instalação de comando de boia de nível 24V,,1579103747704
+96,19,5,0.00,0.00,0.00,0.00,1579103928130,1579103943345,1579282621394,tubo saída do retorno com conexão 50mm quebrada,conexão quebrada ,trocar ,,1579103943345
+97,10,5,0.00,0.00,0.00,0.00,1579282673994,1579282675414,1579282676668,bomba filtros água da produção ,fazer saída pra drenagem fundo da caixa ,tubulação nova entrada bomba com um registro de purga da rede ,,1579282675414
+98,18,5,0.00,0.00,0.00,0.00,1579282817106,1579282818341,1579282820078,fechadeira de caixa desinfetante ,fita saindo de posição de início ,fabricado chapa guia fita ,,1579282818341
+99,6,5,0.00,0.00,0.00,0.00,1579282894235,1579282911157,1579282912460,tampador,soltando tampa do gargalo,ajuste de guias ,,1579282911157
+100,6,5,0.00,0.00,0.00,0.00,1579282987687,1579282988903,1579282990825,rosca divisora de frascos ,amassando garrafas,ajuste ,,1579282988903
+101,2,5,0.00,0.00,0.00,0.00,1579283032285,1579283048955,1579283047334,,tapete de transporte parando ,moto redutor com problemas motor em curto ,,1579283048955
+102,32,0,850.00,350.00,0.00,1200.00,1596036352429,1596036352429,,painel elétrico melhoria ,contator a bomba do porão ruidoso e falhando contato/ bombas queimando selo / derretendo tubulação / rodando em vácuo / falta de desligamento automático de atingimento de nível . ,fazer novo painel (padronizar) instalação de bóias de nível ( orçamento anexo ),,1596036352429
+103,21,5,0.00,0.00,0.00,0.00,1596471064023,1596471087327,1596471090018,cortador de sabão de coco ,alavanca da chave trifásica de partida da mesa quebrada ,soldar ( alavanca com cabo especial fabricado ) ,,1596471087327
+104,3,5,0.00,0.00,0.00,0.00,1596471185863,1596471201499,1596471202970,cabeças de torque envase água 1 litro,pouco torque / Tamba aberta ,regulagem ,,1596471201499
+105,33,5,0.00,0.00,0.00,0.00,1596471389376,1596471450106,1596471451811,tanque de elaboração álcool gel ,registro de entrada de água vazamento ,troca de registro ,,1596471450106
+106,1,5,0.00,0.00,0.00,0.00,1596471532895,1596471546817,1596471548137,embaladora de vela ,trancamento da corrente tração dos molhos ,destrancado ,,1596471546817
+107,13,5,0.00,0.00,0.00,0.00,1596472547548,1596472564840,,,usinar espigão de um bico de envase / troca de mangueira .,acrescentar tubo maior dimensão para usinagem com medida correta ,,1596472564840
+108,3,5,0.00,0.00,0.00,0.00,1596477755465,1596477766033,1596477767537,cabeça de torque nume 1 ,torque muito alto amassando garrafas ,regular ,,1596477766033
+109,3,5,0.00,0.00,0.00,0.00,1596477880727,1596477901657,1596477903114,aplicador de tampa ,tampa caindo ,regular com solda gatinho de trava expurgo de tampa ,,1596477901657
+110,19,5,0.00,0.00,0.00,0.00,1596479936243,1596479960090,1596479961778,filtro de espuma ,passando espuma do retorno ,trocar telas e colocar mais telas noa última camada ( testar ) ,,1596479960090
+111,34,5,0.00,0.00,0.00,0.00,1596810619541,1596810767561,1598629962931,agitador tanque detergente clorado ,pas do agitador enferrujadas e contaminando produto,fabricar eixo e pás de inox ,acompanhar produção e aplicar resina derakene 411-350 ,1596810767561
+112,22,5,0.00,0.00,0.00,0.00,1596810911387,1598629938620,1598629936398,extrusora ,recolocar grades de proteção ,trocar telas e pintura ,,1598629938620
+113,19,5,0.00,0.00,0.00,0.00,1596811006980,1596811057925,1598629910734,envasadora sem cloro ,correia transporte com polia dentada de tração gasta ,colocar polia nova / trocar segmento de correia prender chapas de transferência de garrafas / ,,1596811057925
+114,14,5,0.00,0.00,0.00,0.00,1596811226757,1596811243209,1598629874175,vela sete dias ,limpeza / pintura ,abrir nova janela de limpeza ,,1596811243209
+115,21,5,0.00,0.00,0.00,0.00,1596811332495,1596811355222,1596811356743,máquina de esponjas ,hastes da aranha quebrada ,fabricar 6 hastes novas conforme gabarito ,,1596811355222
+116,33,5,0.00,0.00,0.00,0.00,1596811453454,1596811477799,1596811482057,tanque elaboração ,limpeza e revisão tanque / bomba / troca de parafusos por inox ,fazer limpeza a cada produção ,,1596811477799
+117,34,5,0.00,0.00,0.00,0.00,1596811621297,1596811637070,1596811638635,tanque elaboração ,colocar mangueira para saída da água de limpeza / provisória ,colocado pós bomba ,,1596811637070
+118,34,5,29.00,39.00,0.00,68.00,1596812068946,1596812068946,1598629856881,tanque de laboração ,lavação e limpeza,fazer instalação de água para limpeza dos tanques e piso ,orçamento de melhoria prioridade nível 3,1596812068946
+119,35,4,2.00,50.00,0.00,52.00,1596815102768,1596815173962,1603709877530,porta sala de compressores ,dobradiças gonzo quebrada ,soldar dobradiças novas / pintura e instalar pega mão e trava (verificando mudanças em toda sala de compressores),,1596815173962
+120,18,5,0.00,0.00,0.00,0.00,1597058118899,1597058145125,1597063057350,fechadeira de caixa água 5 litros ,rolos de entrada quebrados arraste da fita solto / suporte porta fita desnivelado / afiar facas  ,refazer alojamento de rolos e fabricar rolo novo / prender porta fitas / fabricar arroela de silicone bobina de fita / nivelar máquina  ,,1597058145125
+121,3,5,0.00,0.00,0.00,0.00,1597061897845,1597061911836,1598629768141,envasadora água 1 litro ,mangueiras ( 3) rasgada ,trocar mangueiras e abraçadeiras ,,1597061911836
+122,24,5,25.00,75.00,0.00,100.00,1597062011019,1597062061681,1598629723847,tanque reservatório talco com vazamento / troca de dois registros na linha do talco ( 50mm) com adaptador / fazer rede nova do citrus e talco para 5 litros ,3 registro 32mm / 3 t 32mm / t 50 mm redução para 32mm / joelho 32mm ,,,1597062061681
+123,4,5,1.00,50.00,0.00,51.00,1597064504515,1597064527163,1617044180758,,fazer plataforma nova em PVC ,plataforma empenada não permite alinhamento dos bicos ( causando vazamentos / perda de água sanitária e molhando operador ) /////material não comprado feito novo paleativo com parafusos /////,finalizado O.S. não veio material solicitado / colocado arrebite e solda ,1597064527163
+124,4,5,2.00,50.00,0.00,52.00,1597064586223,1598629490260,1598629492321,,vazamento bicos ,troca de vedação / vedação nova de P.U.  ( não foi comprado em P.U.),,1598629490260
+125,3,5,0.00,0.00,0.00,0.00,1597082017623,1597089619928,1597089621555,,caindo garrafas na entrada da mesa acumuladora ,"arrastado mesa com paleteira / novamente . "" pedido para colocar a mesa no local correto .",,1597089619928
+126,36,5,0.00,0.00,0.00,0.00,1597338776551,1597338868158,1597338869895,,vibrando barulhando ,apertar corrente ,,1597338868158
+127,22,5,0.00,0.00,0.00,0.00,1598630038915,1598630135632,1598630137319,injetora ,funil de alimentação com base podre e quebrada ,fazer base nova e pintura ,,1598630135632
+128,14,5,0.00,0.00,0.00,0.00,1598868604540,1598868621076,1598962292642,máquina vela 7 dias ,registro entrada de água com vazamento ,registro 32mm rachado trocar registro e conexão joelho ,,1598868621076
+129,16,5,0.00,25.00,0.00,25.00,1599083539710,1599083541666,1599083543988,moinho martelo ,peneiras furada,troca de peneiras ( 2),,1599083541666
+130,2,5,0.00,50.00,0.00,50.00,1599048704153,1599048720445,1599048721832,torque de tampas e aplicador de tampad,cabeça n°3 soltando tampas ,"ajuste disco alinhador de gargalo , lubrificação .",,1599048720445
+131,37,5,0.00,40.00,0.00,40.00,1599048916303,1599049004745,1599049006065,roldana de fio ( n° 1) ,fio caindo com facilidade ,aprofundar corte guia em 12 mm,,1599049004745
+132,38,5,36.00,50.00,0.00,86.00,1598963415562,1598963412874,1598963419089,tobatta ,acelerador ( manivela) quebrada amarrada com arame .,fabricar conjunto manivela novo ,,1598963412874
+133,16,5,90.00,75.00,0.00,165.00,1599053684371,1599053697933,1599242753386,roteador de café ,furos saindo fogo para direção do roteador ,fabricar chapas para tapar os furos ( 3 pontos críticos ) ,,1599053697933
+134,1,5,0.00,230.00,0.00,230.00,1599069495629,1599069515212,1599155922329,controladora clp ,teclado quebrado ,consertar puch boton / trocar capa protetora ,,1599069515212
+135,19,5,0.00,25.00,0.00,25.00,1599075251966,1599075253285,1599075254605,tapador,parado não liga ,botoeira cogumelo cabo rompido / trocado cabo e com ponteiras prezadas ,,1599075253285
+136,31,5,0.00,25.00,0.00,25.00,1599075396161,1599075420858,1599075422127,bomba do rio pouco volume ,entupimento na válvula de ponta de bomba ,trocado válvula por maior ,,1599075420858
+137,42,5,120.00,25.00,0.00,145.00,1599083047942,1599083064833,1599083066504,tanque parafina suja ,cano quebrado ,"trocar conexão e fazer rosca 3/4"" em tubo ",,1599083064833
+138,23,5,8.00,25.00,0.00,33.00,1599083939589,1599083972699,1599083974203,moinho martelo ,peneira furada (2),remendo ,,1599083972699
+139,23,5,0.00,25.00,0.00,25.00,1599084063196,1599084082242,1599084085015,moinho martelo,correias grunhindo ,apertar correias ( troca) urgente ,,1599084082242
+140,23,5,140.00,25.00,0.00,165.00,1599084320944,1599084335379,,moinho martelo ,correias gastas ,troca de correias ,,1599084335379
+141,4,5,0.00,0.00,0.00,0.00,1599141435351,1599141454004,1599141455323,tampador ,reclamação de não estar fechando ,sem defeito ( Operacional ),,1599141454004
+142,23,5,0.00,0.00,0.00,0.00,1599141541430,1599141592101,1599141593471,elevador caneco silo ,revisão ,revisão e lubrificar corrente e mancal ,,1599141592101
+143,4,5,0.00,0.00,0.00,0.00,1599141690251,1599141712253,1599141713740,bomba clorado ,reclamação de lentidão ,sem defeito ( lentidão dos bicos que não dão para gel ) bomba ok,,1599141712253
+144,3,5,0.00,0.00,0.00,0.00,1599141838536,1599141853793,1599141855096,tampador ,cabeça 5 pouco torque ,regulagem disco divisor e regulagem cabeça de torque ,,1599141853793
+145,32,5,0.00,0.00,0.00,0.00,1599141968100,1599142003384,1603709839467,captação de retorno tanques do porão ,espuma indo para Rio próximo a captação de água ,ralos da fábrica não descarrega pra tanque de tratamento ( mudar captação ),,1599142003384
+146,24,5,0.00,0.00,0.00,0.00,1599142261634,1603397377151,1603915786107,bomba do cloro ,"vazamento joelho entrada ( 1"") verificar possibilidade de fechar a purga / bomba travada ",bomba com rotor solto / usinagem / voltou da usinagem / aguarda montagem assim que a reserva apresentar problema ,,1603397377151
+147,14,5,0.00,0.00,0.00,0.00,1599056087987,1599056085164,1599056090744,raspadores de chão,gastos ,fabricado 8 raspadores novos ,,1599056085164
+148,14,5,0.00,0.00,0.00,0.00,1599145063072,1599145084759,1599145086129,facão ,afiar,,,1599145084759
+149,24,5,38.00,100.00,0.00,138.00,1599229545206,1599229562273,1599229563811,bomba do cloro ,refeito bomba reserva quebrada para funcionar durante a ida da bomba oficial para conserto ,aplainado rotor desbalanceado/ trocado rolamento motor / trocado selo / usinado saída de PVC quebrada / adaptado em suporte ( bomba horizontal colocada na vertical ) trocado oring de carcaça / trocado parafusos e tampas de motor / refeito ligações de motor / instalação no local .,,1599229562273
+150,19,5,12.00,25.00,0.00,37.00,1599230716813,1599230759103,1599230760557,cabo de extensão,tomadas quebradas ,trocar por novas padrão 3 pinos ,,1599230759103
+151,4,5,0.00,0.00,0.00,0.00,1599230989568,1599231019709,1599231021096,água 5 litros ,baixa produção ,normal / sem defeito / produzindo clorado material viscoso ,,1599231019709
+152,4,5,0.00,0.00,0.00,0.00,1599231849151,1599231863496,1599231865050,bomba pneumática ,manqueira silicone de saída estourou,troca de mangueira por material pvc,,1599231863496
+153,3,5,0.00,0.00,0.00,0.00,1603450188314,1603450211764,1603709777076,linha de ar comprimido ,"vazamentos mangueira de alimentação principal com 9 imendas ( remendos )
+",trocar por nova ,,1603450211764
+154,3,5,0.00,0.00,0.00,0.00,1603475786244,1603475806249,1603475808137,sensor calha de tampas ,intermitência ,ajuste de foco ( sensor indutivo ) ,,1603475806249
+155,3,5,0.00,0.00,0.00,0.00,1603475892928,1603475938849,1603475940470,cabeça de torque ,espanando rosca da rampa ,lubrificação ,,1603475938849
+156,4,5,0.00,0.00,0.00,0.00,1603709931749,1603709946437,1603709947873,rede de acionamento pneumático ,vazamento ,mangueira vencida ( quebradiça )cortar pedaço com rachadura .,,1603709946437
+157,4,5,0.00,0.00,0.00,0.00,1603710097297,1603710108828,1603710110235,ventilador ,não liga ,queimado ( goteira ) descarte. comprar novo ,,1603710108828
+158,21,5,0.00,0.00,0.00,0.00,1603710192640,1603710200107,1604055952359,bomba parafuso sabão ,montagem ,"fabricar vedação flange de entrada e flange de saída / reduzir medidas do suporte da bomba / pintura do suporte / 
+montagem ",,1603710200107
+159,13,5,0.00,0.00,0.00,0.00,1603712273184,1603712289829,,ventilador ,não liga ,troca de capacitor de partida e tomada 220v ( eletrecista lembek),obs : sem conserto comprado novo ,1603712289829
+160,20,5,0.00,0.00,0.00,0.00,1603712947786,1603712962666,1603712965623,bicos de envaze ,vazamento e travando ,troca de oring de ponta de bico e hidratado vedação de válvula de abertura ,,1603712962666
+161,43,5,0.00,0.00,0.00,0.00,1603713679787,1603713744485,1603713745788,prensa ,solta / deslocando-se pelo setor com a vibração (,colocar no lugar ,,1603713744485
+162,32,4,0.00,0.00,0.00,0.00,1603713852513,1603713868831,,depósito de material tratado ,sabão não consumindo todo o material tratado / sobra ,fazer desvio de bag para tanque subterrâneo ,,1603713868831
+163,5,5,0.00,0.00,0.00,0.00,1603715487992,1603715500245,1603715501916,,conferência de nível de óleo e purga ,completar nível 100 ml,,1603715500245
+164,29,5,0.00,0.00,0.00,0.00,1603716891238,1603716917098,1603728904238,cavalete pivô distribuição de esterco ,cavalete quebrado ,solda e reforço ( inox ) ,,1603716917098
+165,10,5,0.00,0.00,0.00,0.00,1603729139991,1614196448932,1614196450370,tanque estoque talco ,rede contaminando ,fazer rede independente do tanque até a máquina ,,1614196448932
+166,44,5,0.00,0.00,0.00,0.00,1603731532013,1603818022046,1604066343062,,portão quebrado não abre,trocar trilhos guia trocar rolamento fazer suporte estrutura ( remendo ) certo  fazer novo ,,1603818022046
+167,45,5,0.00,0.00,0.00,0.00,1603731792722,1603731874146,1604412172283,acoplamento flange saída tanque 3,vazamento rosca espanada ,fazer novo (usinagem ) ,,1603731874146
+168,46,5,0.00,0.00,0.00,0.00,1603735597037,1603735597037,,,quebrado estrutura ( podre),soldar novamente ( 18 pontos de remendo com solda ( sem conserto ) ,,1603735597037
+169,46,5,0.00,0.00,0.00,0.00,1603793926470,1603793939775,1603793941529,,quebrado ,solda (varos pontos ),,1603793939775
+170,19,5,0.00,0.00,0.00,0.00,1603795932213,1603795977453,1603795978975,painel elétrico comando envasadora ,botoeira caída ,remontar ,,1603795977453
+171,22,5,0.00,0.00,0.00,0.00,1603801406328,1603801451294,1603801452731,queimador de bicos injetores ,fabricar suporte base para peça a ser queimada ,fabricação / solda ,,1603801451294
+172,46,5,0.00,0.00,0.00,0.00,1603803105791,1603803142008,1603803143579,,pneu pegando na estrutura ,estrutura torta ( eixo torto ) reforçar,,1603803142008
+173,4,5,0.00,0.00,0.00,0.00,1603804512334,1603804522665,1604066371814,ventilador ,instalar novo ,ventilador queimado sem conserto ,obs: ( ligado tomada direto sem potenciômetro ... provisório - feito por operador da fábrica ) ,1603804522665
+174,4,5,0.00,0.00,0.00,0.00,1604411688018,1604411702296,1604411704167,ventilador ,instalar potenciômetro ,instalação,,1604411702296
+175,12,5,0.00,0.00,0.00,0.00,1604412355674,1604412369947,1604412371400,támpador,arrancando tampas ,ajuste de passo estrala divisora ( Cruz de malta ) ,,1604412369947
+176,24,5,0.00,0.00,0.00,0.00,1604412462812,1604412474543,1604513125365,rede do lauril com vazamento em cima do tanque detergente número 1,joelho quebrado , troca de conexões,,1604412474543
+177,2,5,0.00,0.00,0.00,0.00,1604412716701,1604412728905,1604412795505,rede de ar comprimido ,vazamento ,trocar rede ou ( remendo ) ,( remendo ) ,1604412728905
+178,24,5,0.00,0.00,0.00,0.00,1604426758439,1604426771013,1604426772667,tanque agitador amaciante número 2,furado no fundo ,tanque de (lnox) soldar ,,1604426771013
+179,15,5,0.00,0.00,0.00,0.00,1604426874211,1604426894090,1604426895413,filtro de entrada do reservatório ,limpeza ,limpeza ( troca de tela ) ,,1604426894090
+180,12,5,0.00,0.00,0.00,0.00,1604495047430,1604495084210,1604495085645,rede de amaciante ,registro 25mm vazamento ,trocar ( corte da rede e colocação de registro soldável ),,1604495084210
+181,24,5,0.00,0.00,0.00,0.00,1604495851791,1604495873410,1604497004376,redutor do agitador do tanque aquecido ,ruído ,verificar nível de óleo ( verificar se o ruido e do redutor ou mancal de fundo ) ,completado óleo ( ruído do mancal de fundo ) ,1604495873410
+182,12,5,0.00,0.00,0.00,0.00,1604496814408,1604496830481,1604497064227,tampador ,desenvolvido e instalado ponta de torque para tampa nova (acompanhar ) ,regulagem e acompanhamento ,,1604496830481
+183,22,5,0.00,0.00,0.00,0.00,1604497128100,1604497156298,1614355101869,misturadores de matéria prima ,melhorar grade de pé de rosca ( entrada ) ,refazer grade com intervalos menores ,,1604497156298
+184,24,5,0.00,0.00,0.00,0.00,1604662423626,1604662436440,1604662437744,Barreira de contenção ,instalar barreira de contenção de tráfego de baixo do elevador ,fabricado duas barreiras físicas e ancorado aí piso com paraboit ,,1604662436440
+185,2,5,0.00,0.00,0.00,0.00,1604662596543,1604662621005,1604662622458,rede de ar comprimido ,vazamento ,remendo com emenda pneumática ( solicitado 10 m mangueira pneumática 8 mm para substituir todo o trecho de rede ) ,,1604662621005
+186,4,5,0.00,0.00,0.00,0.00,1604662807952,1604662821910,1604951597718,rede de água sanitária ,conexão quebrada ,"substituir ""t"" 32mm soldável e prender com abraçadeira e bucha ",,1604662821910
+187,24,5,0.00,0.00,0.00,0.00,1604663351235,1604663425545,1604951576513,tanque amaciante ,furo no fundo ,tentativa de solda ( inox) dentro do tanque ,nenhuma ( solda com eletrodo revestido ) ,1604663425545
+188,2,5,0.00,0.00,0.00,0.00,1604665057571,1604665074184,1604665075588,sopro final limpeza do carimbo,manqueira rachada ,trocar mangueira ,,1604665074184
+191,24,5,0.00,0.00,0.00,0.00,1605026744927,1605026764355,1605026772090,tanques de cloro ,registro 32mm com vazamento ,troca de registro ,"registros trocado a cada 60 dias ( vedação dos registros não espessifica
+para ataque químico ) ",1605026764355
+192,12,5,0.00,0.00,0.00,0.00,1605099510485,1605099527054,1605099528389,tampador ,soltou mola de expulsão ,remontar e travar ,,1605099527054
+193,10,5,0.00,0.00,0.00,0.00,1605099610322,1605099630780,1605099632235,caixa desinfetante talco,vazamento ,não foi encontrado ,,1605099630780
+194,12,5,0.00,0.00,0.00,0.00,1605099823402,1605099843959,1605099845279,rede amaciante ,trocar tela ( filtro ) ,,,1605099843959
+195,2,5,0.00,0.00,0.00,0.00,1605103639733,1605103650811,1605103652114,bicos de envase,entupimento / trancado bico 14,desmontar e limpar ,,1605103650811
+196,1,5,0.00,0.00,0.00,0.00,1605105830937,1605105882046,1605105883583,embaladora de vela ,filme plástico fugindo lateralmente ,regulagem gaiola superior,,1605105882046
+197,48,5,0.00,0.00,0.00,0.00,1605108948556,1605109021340,1605109022627,ventiladore,caído - fora de posição ,ajustar e prender ,,1605109021340
+198,2,5,0.00,0.00,0.00,0.00,1605114108971,1605114138534,1605114139904,bico de água ,mangueira solta ,o procedimento é: operador fecha o  registro do bico com problema e pede manutenção ,,1605114138534
+199,49,5,0.00,0.00,0.00,0.00,1605187046210,1605187074762,1605187076400,agitador detergente clorado ,vazamento na rede do lauril ,joelho partido / substituir e montar com abraçadeiras ,,1605187074762
+200,10,5,0,0,0.00,0.00,1605187760473,1605187760473,,reservatório glicerinado,vazamento registro,troca de registro 50 mm / rosca,,1605187760473
+201,10,5,0,0,0.00,0.00,1605187929368,1605187929368,,tubulação sem cloro,tubulação sem cloro registro 32mm com rosca vazamento,troca de registro,,1605187929368
+202,30,5,0,0,0.00,0.00,1605188130226,1605188145757,,envasadora 5 L,plataforma instável / não repete altura,troca de cilindro pneumático ( comprado cilindro novo ),,1605188145757
+203,13,5,0,0,0.00,0.00,1605188355828,1605188379078,,envasadora detergente 1L,sensor de entra suporte quebrado,fabricar suporte novo,,1605188379078
+204,13,1,0,0,0.00,0.00,1605188528238,1605188548971,,envasadora,bico faltante,falta vedação correta ( ainda não foi encontrada ),,1605188548971
+205,50,1,0.00,0.00,0.00,0.00,1605188708449,1614355770619,,palete ácido ,madeira de cima esburacada ,colocar chapa de plataforma ,"fazer 3 paletes novos definitivos de melhor qualidade "" não de paletes de embalagens empilhados *",1614355770619
+206,24,5,0.00,0.00,0.00,0.00,1605188912802,1605896955401,1605896957070,tanque do leitoso ,registro vazamento ,troca de registro ,,1605896955401
+207,24,5,0.00,0.00,0.00,0.00,1605189005941,1614364510069,1614364511590,tanque lauril,vazamento ,vedação união e junção joelho no tanque / feito tudo novo ,,1614364510069
+208,24,4,0.00,0.00,0.00,0.00,1605189140646,1614869655643,1614869656896,tanque sem cloro ,vazamento ,estrutura inox muito fina / difícil solda / rachaduras constantes ,resinar todo o fundo e 1 m da lateral junto ao fundo / resina e lã de vidro 3 camadas / resina especial para ataque químico ./ feito solda TIG ( cancelado a resina ) ,1614869655643
+209,24,5,0.00,0.00,0.00,0.00,1605189211321,1614870043165,1614870046056,tanque 3 água sanitária ,agitador ( ar comprimido solto ),prender ,cancelado / ver os 444,1614870043165
+210,24,5,0.00,0.00,0.00,0.00,1605189370380,1614953386829,1614953388400,rede de água / água sanitária ,vazamento registro 32 mm,trocar ,,1614953386829
+211,20,5,0.00,0.00,0.00,0.00,1605189645239,1615406152935,1615406154355,tubulação do sem cloro ,vazamento ,trocar registro 32 mm ,,1615406152935
+212,1,5,0.00,0.00,0.00,0.00,1605204944135,1605204968378,1605204969865,embaladora de vela ,plástico frouxo caindo do guia ,regulagem ,,1605204968378
+213,51,5,0.00,0.00,0.00,0.00,1605205064126,1605205111304,1605205112624,placa advertência prensa papelão ,pendurar placa nova ,prender com bucha ,,1605205111304
+214,27,5,0.00,0.00,0.00,0.00,1605288751536,1605529694958,1605529699788,bomba retorno tanque do porão,vazamento bomba 12cv,troca de conexão / fabricado nipel de ferro na entrada da bomba ,,1605529694958
+215,24,5,0,0,0.00,0.00,1605288858007,1605288858007,1620944627947,tanque do cloro,cano de descarga sobre o tanque vazando,verificar,,1605288858007
+216,52,5,0.00,0.00,0.00,0.00,1605291061171,1605291125352,1605291127023,passa fita manual setor vela ,frouxo / quebrado ,,,1605291125352
+217,19,5,0.00,0.00,0.00,0.00,1605292415752,1605292452107,1605292453344,lâmpada fluorescente ,piscando ,troca de lâmpada e starter ,,1605292452107
+218,19,5,0.00,0.00,0.00,0.00,1605524994306,1605525025878,1605525027215,tapete transportador de corrente ,elo arrebentado ,substituir segmento quebrado ,,1605525025878
+219,31,5,0.00,0.00,0.00,0.00,1605530071605,1605530106856,1605538794576,bomba do rio ,parou de conversar ,"o rio levou válvula e tubo / colocar outra/fazer suporte tipo ""garateia"" no pé da válvula e tubo de aço com joelho com argolas de ancoragem  ",,1605530106856
+220,2,5,0.00,0.00,0.00,0.00,1605546916151,1605546928393,1605546929763,bicos de envase ,trancado ,desmontado limpado e trocado intermediário quebrado ,,1605546928393
+221,21,5,0.00,0.00,0.00,0.00,1605549515063,1605549525982,1605549527386,guincho plataforma portão ,trava quebrada ,fabricado e instalado outra ,,1605549525982
+222,21,5,0.00,0.00,0.00,0.00,1605552682602,1605552695869,1605627595992,rampa de descarga ,aumentar tamanho ,aumentar chapa / colocar longarinas de reforço / pintar / consertar trava do guincho ,,1605552695869
+223,25,5,0.00,0.00,0.00,0.00,1605612239979,1605612258008,1614364017049,elevador água sanitária ,quebrado ,solda de estrutura ,,1605612258008
+224,12,5,0.00,0.00,0.00,0.00,1605624802296,1605624849931,1605624851202,cabeça de torque,ajustar para tampa nova ,,,1605624849931
+225,12,5,0.00,0.00,0.00,0.00,1605624944148,1605624997636,1605624999207,cabeça de torque ,trocar para tampa velha ,,,1605624997636
+226,24,5,0.00,0.00,0.00,0.00,1605627794976,1614614443477,1614614444863,chuveiro de emergência ,tubulação solta / conexão pertda / mau posicionamento / registro com manopla quebrada ,fabricar pedestal de suporte para chuveiro / refazer tubulação ,,1614614443477
+227,53,5,0.00,0.00,0.00,0.00,1605635865184,1605635885167,1605635886520,cozinha ,soldar argola no chassi para o botijão de gaz ,,,1605635885167
+228,24,5,0.00,0.00,0.00,0.00,1605640175214,1614614536210,1614614537632,tanque do sem cloro ,fazer rede de água 50 mm,,,1614614536210
+229,24,5,0.00,0.00,0.00,0.00,1605640292994,1614614560370,1614614561640,tanque agitador sal,fazer rede de água 50mm,,,1614614560370
+230,24,5,0.00,0.00,0.00,0.00,1605640396997,1614614591466,1614614592702,tanque do lava roupas ( elab 06),fazer rede água 50 mm,,,1614614591466
+231,24,5,0.00,0.00,0.00,0.00,1605640519744,1614614609912,1614614612501,tanque agitador base,fazer rede de água 50 mm ,,,1614614609912
+232,54,0,0.00,0.00,0.00,0.00,1605701296531,1605701296531,,telhado ,"vazamento na calha 
+",conserto de telhado com pessoal especializado ,,1605701296531
+233,54,0,0.00,0.00,0.00,0.00,1605701561763,1605701561763,,bomba elétrica ,fiação e chave do motor fixar e melhorar isolamento ,serviço elétrico ,,1605701561763
+234,37,0,0.00,0.00,0.00,0.00,1605701954251,1605701954251,,máquina esponja ,correia exposta / atuador de corte do fio sem isolamento ,verificar possibilidade de protetor de correia e verificar tensão do atuador de corte. isolar .,,1605701954251
+236,55,0,0.00,0.00,0.00,0.00,1605702571686,1605702571686,,plataforma do tacho,sem guarda corpo,estudar forma de colocar guarda corpo móvel ,,1605702571686
+237,56,0,0.00,0.00,0.00,0.00,1605702801597,1605702801597,,torre do resfriamento ,protetor de correia e corrente motor da torre ,fabricar protetor ,,1605702801597
+238,56,0,0.00,0.00,0.00,0.00,1605703181248,1605703181248,,motores rosca superior e infererior ,sem tampa de ligação ,,,1605703181248
+239,57,0,0.00,0.00,0.00,0.00,1605703433470,1605703433470,,plataforma ,trecho entre tacho 01 e 02 sem guarda corpo ,estudar guarda corpo móvel ,,1605703433470
+240,57,0,0.00,0.00,0.00,0.00,1605703957471,1605703957471,,redutor do agitador ,falta proteção de correia ,fabricar proteção ,obs: fabricação desnecessária / na é acessível ao operador / acessado apenas pela manutenção com equipamento desligado ,1605703957471
+241,58,0,0.00,0.00,0.00,0.00,1605704064289,1605704064289,,redutor do agitador ,protetor de correia ,fabricar protetor ,desnecessário / fora do alcance do operador / acessado apenas pela manutenção /com equipamento desligado ,1605704064289
+242,57,0,0.00,0.00,0.00,0.00,1605704306214,1605704306214,,motor do redutor ,sem tampa da caixa de ligação ,comprar ou fabricar caixa de ligação ,,1605704306214
+243,59,0,0.00,0.00,0.00,0.00,1605704422932,1605704422932,,conjunto redutor e motor ,protetor de correia ,fabricar protetor de correia ,,1605704422932
+244,59,1,0.00,0.00,0.00,0.00,1605704944458,1605704944458,,linha de vapor ,isolamento térmico ,isolar com lá de vidro ,,1605704944458
+245,59,0,0.00,0.00,0.00,0.00,1605705205406,1605705205406,,plataforma ,guarda corpo perto dos registros de vapor ,"desnecessário, para acessar tem que subir um degrau e se contorcer entre as tubulações de vapor ",,1605705205406
+246,60,0,0.00,0.00,0.00,0.00,1605705450627,1605705450627,,plataforma piso ,varões quebrados ,,,1605705450627
+247,60,1,0.00,0.00,0.00,0.00,1605705642805,1605705642805,,plataforma ,sem guarda corpo entre misturador e parede dos fundos ,,,1605705642805
+248,61,0,0.00,0.00,0.00,0.00,1605706175946,1605706175946,,conjunto motor redutor ,protetor de correia ,"fabricar protetor de correia obs: proteção desnecessária, correias não estão ao alcance do operador / acessível somente pela manutenção que é feita com equipamento desligado ",,1605706175946
+249,62,5,0.00,0.00,0.00,0.00,1605706686817,1605714364668,1605714366071,fogareiro ,vazamento,trocado abraçadeiras da válvula e duto de registros.,,1605714364668
+250,63,0,0.00,0.00,0.00,0.00,1605707319552,1605707319552,,guarda corpo fixo na rampa e guarda corpo móvel na descarga e alongar plataforma no pé do guincho ,,,,1605707319552
+251,22,0,0,0,0.00,0.00,1605708327845,1605708327845,,compressores do resfriador,proteção de correia 2,troca de todo o sistema,inútil colocação de proteção,1605708327845
+252,22,0,0.00,0.00,0.00,0.00,1605708444335,1605708444335,,quadro elétrico compressores resfriador ,aberto e bagunçado ,,,1605708444335
+253,22,0,0,0,0.00,0.00,1605708626040,1605708626040,,caixa refrigerada,vazamento / isolamento caindo,compra de sistema novo,sem conserto,1605708626040
+254,22,5,0,0,0.00,0.00,1605708725832,1605708725832,1606329574393,iluminação,revisão,Revisado eletricista terceiro,,1605708725832
+255,22,5,0.03,0,0.00,0.03,1605709091656,1605118452144,1612199009581,misturador de matéria prima 1-2-3,falta proteção  de correia dia misturadores 1-2-3,fabricado protetor sob medida,pintado da cor padrão amarelo segurança,1614787153146
+256,37,5,0.00,0.00,0.00,0.00,1605781128281,1605781147967,1605781150607,máquina de esponjas ,aranha com garfos quebrados ,fabricar 2 garfos novos ,,1605781147967
+257,22,5,0.00,0.00,0.00,0.00,1605791130595,1605791147152,1605791148622,frizer,fabricar 2 suportes mão francesa 500X300mm,,,1605791147152
+258,48,5,0.00,0.00,0.00,0.00,1605804574843,1605804594220,1605804595657,caldeira parafina reciclada ,"união 1.1/2"" vazando ",trocado união ,,1605804594220
+259,31,5,0.00,0.00,0.00,0.00,1605807102764,1605807128549,1605807130168,tanques de amaciante ,água suja escoar ,adaptar saída para calha da rua ,,1605807128549
+260,17,5,0,0,0.00,0.00,1605807319767,1605807319767,1606169616258,moedor de café,troca de peneira,,,1605807319767
+261,3,0,0.00,0.00,0.00,0.00,1605807339149,1605807356956,1605807358661,calha do chão,sem grade ,fabricar grade ,,1605807356956
+262,2,0,0.00,0.00,0.00,0.00,1605808332222,1605808332222,,ralos de piso ,sem tampa ,fabricar tampa resistente a passagem da paleteira ( 11 PCs),,1605808332222
+263,55,0,0.00,0.00,0.00,0.00,1605867851625,1605867851625,,motor do redutor ,falta tampa da caixa de ligação ,colocar tampa / ou caixa de ligação inteira ,,1605867851625
+264,59,0,0.00,0.00,0.00,0.00,1605868401650,1605868401650,,motor do redutor ,sem caixa de ligação ,comprar ou fabricar caixa de ligação ,,1605868401650
+265,61,0,0,0,0.00,0.00,1605868616414,1605868616414,,motor do redutor,sem tampa caixa de ligação,comprar ou fabricar caixa de ligação,,1605868616414
+266,63,0,0,0,0.00,0.00,1605869410820,1605869410820,,rampa e plataforma do guincho,plataforma de concreto quebrada e curta,alongar e reforçar instalação de corrimão e guarda corpo,,1605869410820
+267,53,5,0,0,0.00,0.00,1605874762699,1605874778852,1605874780189,carrinho de descarga 2 rodas,solda quebrado,,,1605874778852
+268,6,5,0.00,0.00,0.00,0.00,1605874952995,1605877580567,1605877582969,tampador ,fora de sincronia ,encalhamento por garrafas fora de tamanho ,,1605877580567
+269,48,0,0.00,0.00,0.00,0.00,1605877717139,1605877717139,,ventilador ,sem tela de proteção ,,,1605877717139
+270,48,0,0.00,0.00,0.00,0.00,1605878045295,1605878045295,,fogareiro ,desprotegido / muito próximo da passagem risco de incêndio muito baixo botijão muito próximo ,transferir para área aberta e fazer estrutura de alvenaria para colocação do fogareiro e estudar colocação de botijão fora ,,1605878045295
+271,48,5,0,0,0.00,0.00,1605879348014,1605879348014,1620936619472,tubulação vapor,vazamento no retorno para caldeira e obstrução de corredor (risco de queda ),correto passar por dentro de canaleta,refeito pelo mesmo local tubos expostos,1605879348014
+272,48,1,0.00,0.00,0.00,0.00,1605879825618,1605879825618,,tanque 01 e 03 risco de queimadura a terceiros do corredor ,,fazer meia tampa ,,1605879825618
+273,48,1,0.00,0.00,0.00,0.00,1605880465561,1605880465561,,seladora manual ,tomada sem tampa pino exposto ,,,1605880465561
+274,37,5,0.00,0.00,0.00,0.00,1605883524205,1605883537554,1605883538991,aranha máquina de esponjas ,garfos quebrados ( 2) ,fabricar garfos novos ,,1605883537554
+275,22,1,0,0,0.00,0.00,1605901434979,1605901434979,,misturador de matéria prima 02,falta tampa da caixa de ligação motor,comprar caixa de ligação,,1605901434979
+276,48,5,0.00,0.00,0.00,0.00,1605902333984,1605902364219,1605902365906,fechadura de caixa ,não corta a fita de cima ,limpeza e afiar navalha ,,1605902364219
+277,24,5,0.00,0.00,0.00,0.00,1606127931490,1606127960301,1606127961470,tanque retorno para sabão ,colocar união cano 59 mm ,para facilitar a troca de tela ,,1606127960301
+278,3,5,0.00,0.00,0.00,0.00,1606133041922,1606133081014,1606133082401,aplicador de Tama ,encalhamento de tampas ,polimento e ajuste ,,1606133081014
+279,18,5,0.00,0.00,0.00,0.00,1606133253618,1606133285662,1606133287166,embaladora água sanitária 1L,fita inferior saindo do guia ,passado fita na posição correta ,,1606133285662
+280,4,5,0.00,0.00,0.00,0.00,1606141694869,1606141706677,1606141708097,bico de envase ,ponteira quebrada ,substituído ,,1606141706677
+281,3,5,0.00,0.00,0.00,0.00,1606141758828,1606141782083,1606141779025,cabeça de torque 01,falta torque tampa frouxa ,ajuste ,,1606141782083
+282,17,5,0.00,0.00,0.00,0.00,1606215471621,1606215490332,1606215491752,embaladora café almofada ,lâmina de corte pacote suporte quebrado ,solda e recolocar arrebites ,,1606215490332
+283,16,5,0.00,0.00,0.00,0.00,1606215605410,1606215622147,1614095107769,roteador de café ,tubo água resfriamento com vazamento ,refazer conexões de ferro ,,1606215622147
+284,29,5,0.00,0.00,0.00,0.00,1606218623272,1606218641988,1606218643425,dosador de sal para gado ,fabricar ( Chepa) de PVC para sal ,,,1606218641988
+285,2,5,0.00,0.00,0.00,0.00,1606221126537,1606221194995,1606223923073,válvula pneumática( registro ) não aciona ,troca de boia /troca de sindau conector / ajuste de nível ,boia com infiltração de cloro ,,1606221194995
+286,6,5,0.00,0.00,0.00,0.00,1606223983237,1606223998296,1606223999431,tampador ,caindo tampa / garrafa aberta ,ajuste ,,1606223998296
+287,2,5,0.00,0.00,0.00,0.00,1606239465449,1606239489017,1606239490571,válvula pneumática ( registro ),boia ,boia nova com defeito / colocar outra nova ,,1606239489017
+288,6,5,0.00,0.00,0.00,0.00,1606240294977,1606240308979,1606240310417,tampador ,fabricar novo excêntrico do apalpador ,fabricado em aço  tomando como base o desgaste do original ,obs: feito preenchido mento com solda e aguarda peça nova / melhorado batente dos gatilhos dos bicos / parada das 11: 00--16:10 hs ,1606240308979
+289,12,5,0.00,0.00,0.00,0.00,1606240476897,1606240503201,1606240504420,rede amaciante ,troca de filtro / tela ,trocado filtro ,,1606240503201
+290,24,5,0.00,0.00,0.00,0.00,1606248598327,1606248620598,1606248622018,tanque agitador detergente ,vazamento joelho saída ,troca de conexões ,,1606248620598
+291,24,1,0.00,0.00,0.00,0.00,1606304001003,1606304097825,,elaborador de detergente n° 2,protetor de correia ,fica ao alcance do operador ( nunca teve protetor) ,,1606304097825
+292,24,1,0.00,0.00,0.00,0.00,1606304241536,1606304241536,,elaborador de detergente nπ 1,protetor de acoplamento de agitador ,fica ao alcance do operador ,,1606304241536
+293,24,1,0.00,0.00,0.00,0.00,1606304535846,1606304535846,,armazenador de produto semi elaborado ( tanque 3) ,fiação exposta ,eletrecista ,,1606304535846
+294,24,5,0.00,0.00,0.00,0.00,1606309787928,1614094939394,1614094941182,água para tanque alvejante sem cloro ,pouca vazão de Agua demora para encher o tanque ,50mm ( T = 1) ( joelho = 5) ( registro com adaptador = 1) ( cano 1 barra) ,,1614094939394
+295,24,5,0.00,0.00,0.00,0.00,1606310172268,1614094905526,1614094907131,tanque do sal ,pouca vazão de água ( demora encher),(T 50mm ) ( joelho 4) (registro com adaptador) ( barra de cano ) ,passado para rede 50mm,1614094905526
+296,24,5,0.00,0.00,0.00,0.00,1606310617373,1614094861081,1614094862417,tanque agitador lava roupas,rede de água ,(T 50mm = 1) ( joelho = 5) (cano 2barras ) ( registro com adaptador = 1) ( bucha metálica 8 X 100 = 10 ) ,,1614094861081
+297,24,5,0.00,0.00,0.00,0.00,1606311056762,1606311056762,,elaborador da base ,rede água fina ,( T 50mm = 1) ( joelho 2) ,colocado na rede 50 mm,1606311056762
+298,4,5,0.00,0.00,0.00,0.00,1606386911997,1606386931371,1606386932809,água 5L,vazamento de ar ,mangueira podre rasgada / troca por outra de péssima qualidade ,,1606386931371
+299,3,5,0.00,0.00,0.00,0.00,1606387028814,1606387045024,1606387046461,rede ar comprimido,vazamento ,mangueira podre rasgada / substituída por outra de qualidade duvidosa ,,1606387045024
+300,14,5,0.00,0.00,0.00,0.00,1606391353150,1606391369737,1606391370957,bandeja máquina de vela,quebrada ,solda ,,1606391369737
+301,3,5,0.00,0.00,0.00,0.00,1606393835073,1606393847708,1606393848843,divisor depois do carrocel ,fora de sincronia ,sincronicar máquina toda ,,1606393847708
+302,28,1,0.00,0.00,0.00,0.00,1606400656551,1606400669433,1606400670920,ventilador detergente 500 ml,passar fiação com eletrodutos ,eletrecista ,,1606400669433
+303,12,5,0.00,0.00,0.00,0.00,1606412996289,1606413010125,1606413011462,rede ar cilindro conjunto de bicos ,mangueira 8 mm rachada ,trocado ,,1606413010125
+304,24,5,0.00,0.00,0.00,0.00,1606503956583,1606503974544,1606503975929,tanque sem cloro ,vazamento ,trinca no fundo / não dá pra soldar / colocado resina / duas demão.,,1606503974544
+305,64,5,0.00,0.00,0.00,0.00,1606504144487,1606504193377,1606504194797,chuveiro emergência setor elaboração detergente,registro quebrado / solto / conexões quebradas ,fazer coluna de fixação e posicionado melhor ,,1606504193377
+306,24,1,0.00,0.00,0.00,0.00,1606741411489,1606741455783,1606741457320,tanque da base ,eicho desprotegido ,esta ao alcance do operador colocar proteção ,,1606741455783
+307,24,1,0.00,0.00,0.00,0.00,1606741622078,1606741622078,,tanque do concentrado ,sem tampa ,fazer tampa de inox ,,1606741622078
+308,24,1,0.00,0.00,0.00,0.00,1606741855193,1606741855193,,quadro elétrico ao lado do tanque lauril ,debaixo da rede de água e fiação exposta ,mudar quadro e caixa secundaria de posição ,,1606741855193
+309,24,1,0.00,0.00,0.00,0.00,1606742170334,1606742170334,,bomba do tanque lauril ,sem protetor de corrente ,fabricar conf desenho ,,1606742170334
+310,24,0,0.00,0.00,0.00,0.00,1606742476060,1606742476060,,calha ,sem grade / calha aberta ,fabricar grade de proteção ,,1606742476060
+311,24,0,0.00,0.00,0.00,0.00,1606742783469,1606742783469,,quadro elétrico ,fiação solta / aparente ,colocar caixa de ligação nova ,,1606742783469
+312,2,1,0.00,0.00,0.00,0.00,1606743085539,1606743085539,,caixa de ligação na mureta dos tanques ,sem tampa ,recolocar tampa ,,1606743085539
+313,65,5,0.00,0.00,0.00,0.00,1606746099391,1606746162495,1606746164081,envasadora de cera ,"registros não fecham  ( 1"" e 1.1/4"" )/ ferro baixa pressão ",trocar por novos ,,1606746162495
+314,14,5,0.00,0.00,0.00,0.00,1606821119633,1606821143347,1606821144934,máquina 7 dias número 50 mm ,pino quebrado,fabricar e instalar nova vareta ,,1606821143347
+315,43,5,0.00,0.00,0.00,0.00,1606830302530,1606830320347,1606830321666,prensa corte papelão ,fora de posição ,arrastar para posição ,,1606830320347
+316,20,5,0.00,0.00,0.00,0.00,1606831885325,1606831907989,1606831909292,rede ar comprimido ,vazamento ,remendo com imenda pneumática 8 mm,,1606831907989
+317,2,5,0.00,0.00,0.00,0.00,1606832023435,1606832036780,1606832038066,boia de nível ,não liga ,troca de boia por outra nova outra marca ,,1606832036780
+318,24,5,0.00,0.00,0.00,0.00,1606832108468,1606832117267,1606832118736,"rede do cloro 1"" ",joelho quebrado ,troca ,,1606832117267
+319,16,5,0.00,0.00,0.00,0.00,1606842800668,1606842816017,1606842817370,roteador de café ,registro água não fecha ,troca de registro ,,1606842816017
+320,2,5,0.00,0.00,0.00,0.00,1606842875010,1606842887730,1606842889034,mesa acumuladora ,caindo garrafas ,ajustado guias e passado silicone ,,1606842887730
+321,10,1,0.00,0.00,0.00,0.00,1606843118043,1606843143983,1606843145353,exaustores de telhado ,rangindo ,serviço de telhado / pessoal de telhado .,,1606843143983
+322,20,1,0.00,0.00,0.00,0.00,1606903982758,1606904662614,1606904664135,bicos trancado vazando ,falta de vedação resistente a ataque químico ,lubrificado novamente pela centésima  vez ,,1606904662614
+323,3,5,0.00,0.00,0.00,0.00,1606909398778,1606909415816,1606909417336,boia elétrica de nivel,não desliga ,boia de na qualidade defeito de série da marca / troca de marca ,,1606909415816
+324,19,5,0.00,0.00,0.00,0.00,1606914619754,1606914657500,1606914659152,pente guia para nova embalagem ,medir / desenhar / orçar pente novo ,com 22 frascos / material tecnil /  8 bicos com novas mangueiras .,,1606914657500
+325,3,5,0.00,0.00,0.00,0.00,1606917089419,1606917103012,1606917104599,boia de nível ,transbordando tanque ,baixar nível ,,1606917103012
+326,3,5,0.00,0.00,0.00,0.00,1606917166119,1606917180874,1606917182077,guia estrela do tampador ,baixa / derrubando garrafas ,subir e travar ,,1606917180874
+327,56,5,0.00,0.00,0.00,0.00,1606938797990,1606938857918,1606938859271,embaladora de sabão,redutor segunda correia quebrado,trocado por novo ,,1606938857918
+328,3,5,0.00,0.00,0.00,0.00,1606996708726,1606996740807,1606996742177,bicos de envase ,espigão de purga quebrado / 2 peças,troca por novo ,,1606996740807
+329,17,5,0.00,0.00,0.00,0.00,1606996882021,1606996896849,1606996898169,embaladora café (almofada) ,navalha de corte quebrada ,colocado arrebite de inox ,,1606996896849
+330,3,5,0.00,0.00,0.00,0.00,1606997139149,1606997152092,1606997153596,calhas,tirar medidas ( novamente ) ,4 ° orçamento ,,1606997152092
+331,20,5,0.00,0.00,0.00,0.00,1606999354983,1606999369033,1606999370386,bicos ,trancando ,lubrificado ( todo dia ) fanta vedação ideal .,,1606999369033
+332,22,5,0.00,50.00,0.00,50.00,1607003977823,1607004004784,1607004006321,sopradora pet  ,troca de Matriz ( matriz quebrada colocar nova ) ,desmontagem e montagem ( ajuda) ,,1607004004784
+333,5,5,0.00,0.00,0.00,0.00,1607004664657,1607004681255,1607004682508,rede e filtros ,purga de rede e conferência nível óleo ,preventivo ,,1607004681255
+334,19,5,0.00,0.00,0.00,0.00,1607024036537,1607024068929,1607024070216,bicos de envase ,regulagem para embalagem da querozene,,,1607024068929
+335,19,5,0.00,0.00,0.00,0.00,1607024184203,1607024204905,1607024206209,tampador da furadeira ,não aperta / tampa marcada ,rebaixo no torno / polimento de borda ,,1607024204905
+336,31,5,0.00,0.00,0.00,0.00,1607079873137,1607079905956,1607079907226,bomba do rio ,revisão de posição de válvula do rio ,reposicionado / conferido amarras ,,1607079905956
+337,56,5,0.00,0.00,0.00,0.00,1607080160776,1612913535181,1612913536868,embaladora sabão ,redutor quebrado ,compra de moto redutor segundo orientação em orçamento anexo ,,1612913535181
+338,24,5,0.00,0.00,0.00,0.00,1607102787700,1607102801759,1607102803263,tubulação descarga cloro / conexões da rua .,frágil / vazamento / risco acidente / descarga caminhão tanque de cloro e soda ,união - registro - espigão de inox - abraçadeira reforçada ,,1607102801759
+339,16,5,0.00,0.00,0.00,0.00,1607367056565,1607367069737,1607367071023,moinho de martelo café ,troca de martelos ,trocado todos os 60 martelos gastos ,,1607367069737
+340,3,5,0.00,0.00,0.00,0.00,1607367279502,1607367292145,1607367293466,bicos ,2 bicos estúpidos ,desmontado e limpo ,,1607367292145
+341,20,5,0.00,0.00,0.00,0.00,1607367590355,1607367607413,1607367608767,biscos ,trancado ,vedação não ideal ( resseca com o produto ) ,destravado todo dia  ,1607367607413
+342,24,5,0.00,0.00,0.00,0.00,1607367915963,1607367928602,1607367929854,rede lauril ,preventivo,colocado calha de PVC debaixo da rede ,,1607367928602
+343,24,5,0.00,0.00,0.00,0.00,1607368003446,1607368021569,1607368022772,rede cloro ,registro 32 mm vazando ,troca por novo ,,1607368021569
+344,3,5,0.00,0.00,0.00,0.00,1607368085336,1607368095095,1607368096430,I.H.M instalação ,não aciona válvula de abastecimento ,entrada coma do invertida ,,1607368095095
+345,3,5,0.00,0.00,0.00,0.00,1607368197709,1607368207679,1607368210450,impressora ,tampa preta ajuste de sensor ,ajustado ,,1607368207679
+346,32,5,0.00,0.00,0.00,0.00,1607371006717,1607371048172,1607371050645,bomba para sabão ,lenta ,limpeza ,,1607371048172
+347,65,5,0.00,0.00,0.00,0.00,1607371106438,1607371131580,1607371132816,bomba cera líquida ,vazamento ,troca de gaxeta / rotor e rolamento ,,1607371131580
+348,22,5,0.00,0.00,0.00,0.00,1607434853677,1607434864882,1607434866203,rosca extrusora ,rolamento Axial pé da rosca ,troca ,,1607434864882
+349,4,5,0.00,0.00,0.00,0.00,1607435034136,1607435050669,1607435051955,envase clorado ,lento ,máquina ok / produto viscoso ,,1607435050669
+350,6,5,0.00,0.00,0.00,0.00,1607435327172,1607435345159,1607435346396,tampador,tampa soltando ,baixado pressionados ,,1607435345159
+351,6,5,0.00,0.00,0.00,0.00,1607435443116,1607435462939,1607435464292,sopro bico 17,mangueira pneumática rasgada ,troca ,,1607435462939
+352,2,5,0.00,0.00,0.00,0.00,1607435739180,1607435752067,1607435753320,aplicador de tampa ,virando tampa no gargalo ,aplicador muito alto / baixado ,,1607435752067
+353,4,5,0.00,0.00,0.00,0.00,1607445240648,1607445250806,1607445252177,ar comprimido ,mangueira rachada ,troca ,,1607445250806
+354,65,5,0.00,0.00,0.00,0.00,1607445301807,1607445317156,1607445318676,bomba da envasadora ,vazamento ,selo / retirado bomba e devolvido em garantia ,remontar novamente ,1607445317156
+355,6,5,0.00,0.00,0.00,0.00,1607447269245,1607447281209,1607447282496,apalpador de tampas ,falhando ,completar desgaste e usinagem ,,1607447281209
+356,18,5,0.00,0.00,0.00,0.00,1607455181464,1607455234284,1607455235571,fechadura água 1 e 2 L,fita caindo do suporte ,vento ,,1607455234284
+357,32,5,0.00,0.00,0.00,0.00,1607455309770,1607455323408,1607455324578,tanques acumuladores porão ,cheio de plástico / entupindo bomba ,limpeza ,,1607455323408
+358,5,5,380.00,425.00,0.00,805.00,1607526069388,1607526084793,1607526086146,alimentação elétrica ,contator colado / não desliga / disparo válvula segurança ,contator incompatível com motor 20 CV / conferido alimentação / sem danos por aquecimento / disjuntor nunca disparado / relé sem disparo térmico. ( trocado contator por de maior potência ) trocado caixa de ligação por maior . ,,1607526084793
+359,12,5,0.00,0.00,0.00,0.00,1607530956827,1607530982440,1607530983677,tampador ,troca de bocal para tampa nova ,ajuste ,,1607530982440
+360,24,5,0.00,0.00,0.00,0.00,1607532292488,1607532309365,1607532310601,tanques cloro ,registro 32mm vazamento ,troca ,,1607532309365
+361,24,5,0.00,0.00,0.00,0.00,1607533111923,1607533135673,1607533137111,rede descarga caminhão ,vazamento no cavalete de manobra ,colocar 2 abraçadeiras de ferro / rosca registro quebrando e espigão solto ,,1607533135673
+362,10,5,0.00,0.00,0.00,0.00,1607537414031,1607537434153,1607537435473,rede estoque desengordurante,vazamento registro 32 mm,troca de registro ,,1607537434153
+363,2,5,0.00,0.00,0.00,0.00,1607537737268,1607537750695,1607537751965,envasadora ,volume ,ajustar volume ,,1607537750695
+364,12,5,0.00,0.00,0.00,0.00,1607542887827,1607542910232,1607542911786,tamoador,tampa nova não aperta ,mudado torque para + ,,1607542910232
+365,5,5,0.00,0.00,0.00,0.00,1607594967535,1607594982041,1607594983262,compressor e rede ,purga diária ,preventiva ,,1607594982041
+366,19,5,0.00,0.00,0.00,0.00,1607595023764,1607595045550,1607595046972,rede ar comprimido ,vazamento ,troca de imenda e mangueira 8 mm ,,1607595045550
+367,34,5,0.00,0.00,0.00,0.00,1607595134258,1607595192806,1607595194292,caixa agitador ,retirada de mangueira de escoamento / lavação agitador ,retirada ,,1607595192806
+368,3,5,0.00,0.00,0.00,0.00,1607604297020,1607604309343,1607604310546,mesa acumuladora ,fora de posição / pancada com palete ( novamente ) ,reposicionar ,,1607604309343
+369,3,5,0.00,0.00,0.00,0.00,1607604513130,1607604525354,1607604526590,tampador ,cabeça 1 não aperta ,espanando / tampas defeituosas / regulado ,problema varia com a qualidade de tampa ,1607604525354
+370,24,5,0.00,0.00,0.00,0.00,1607606469620,1607606489228,1607606490532,rede água ,retirada rede antiga não utilizada ,corte e selo ,,1607606489228
+371,12,5,0.00,0.00,0.00,0.00,1607610517280,1607610532152,1607610533405,tamoador ,troca de tampa / ajuste ,ajustado ,,1607610532152
+372,65,5,0.00,0.00,0.00,0.00,1607693350092,1612913429564,1612913431520,cáixa cera base água vermelha ,joelho com vazamento ,trocar joelho ,,1612913429564
+373,66,1,0.00,0.00,0.00,0.00,1607951792473,1607951792473,,tomada elétrica ,sem espelho ,eletricista trocar tomada ,,1607951792473
+374,19,5,0.00,0.00,0.00,0.00,1607955022266,1607955037097,1607955038334,tampador ,regulagem / arrastado cadê com a paleteira ,recolocar no lugar ,,1607955037097
+375,5,5,0.00,0.00,0.00,0.00,1609792494662,1609792507308,1609792508611,,verificar nível de óleo ,completado 250 ml,,1609792507308
+376,2,5,0.00,0.00,0.00,0.00,1609792554980,1609792599591,1609792600810,rede ar comprimido ,vazamento ,trocado imenda ,,1609792599591
+377,3,5,0.00,0.00,0.00,0.00,1609792657560,1609792674312,1609792675531,rede ar  comprimido ,vazamento ,trocado imenda pneumática 8 mm,,1609792674312
+378,6,5,0.00,0.00,0.00,0.00,1609792739678,1609792767380,1609792768548,sapata de elevação / bico n°18,baixo / desmontar e calçar para ficar mais alto ,colocado arroela sob medida de 1.5 mm de altura ,,1609792767380
+379,32,5,0.00,0.00,0.00,0.00,1609846102565,1609846120708,1609846121877,bomba de transferência do reservatório 1 para reservatório 2,fios cortados / desligados ?,refazer ligação e isolamento ,,1609846120708
+380,6,5,0.00,0.00,0.00,0.00,1609928713193,1609928725434,1609928727139,bico n° 8 ,vazamento ,troca de vedação ,,1609928725434
+381,19,1,0,0,0.00,0.00,1610651897951,1612913083527,1612913087221,envasadora desinfetante,modificar bicos para envazar 5 L desinfetante para aproveitar impressora e aumentar para 6 frascos por vez.,fazer 6 adaptadores de ponta de bicos para galão de 5 litros,feito 6 adaptadores / aguarda vedação para dois bicos,1612913083527
+382,49,5,0.00,0.00,0.00,0.00,1612263018042,1612263085706,1612912369053,rede lauril pós bomba ,vazamento ,joelho quebrado / trocar ,trocado ,1612263085706
+383,3,5,0,0,0.00,0.00,1613044767772,1613044767772,,escada plataforma móvel para limpeza e manutenção,fabricação / segurança,fabricar em inox ou tecnil semelhante a estrutura da envasadora / comprar escada articulada,"instalado esguicho para as laterais do tanque para lavação , não é nescessário subir na estrutura",1613044767772
+384,18,5,0.00,0.00,0.00,0.00,1613127671011,1613136963657,1613136965478,fechadura de caixa amaciante ,articulação suporte da navalha quebrado / faltando bucha da articulação / rolinhos condutores de fita quebrado / sem parafuso ,fabricar articulação nova / fabricar bucha nova / fabricar rolinho tecnil novo colocar parafusos faltantes ,obs : mola da articulação da navalha de corte muito forte causando a quebra da articulação por pancadas repetidas / trocar mola ( arame 1.5 mm D.15mm 20 voltas ,1613136963657
+385,48,5,0.00,0.00,0.00,0.00,1613566654061,1613566700704,1613566702040,tanque de parafina da oficina ,controlador queimado ,troca de controlador ,controlador novo trocado por eletricista lembek ,1613566700704
+386,34,5,0.00,0.00,0.00,0.00,1613566812040,1613566845685,1613566847222,inversor do agitador desarmando ,mau contato em disjuntor do quadro elétrico geral ,apertado contatos e conferido tensão ,,1613566845685
+387,32,5,0.00,0.00,0.00,0.00,1613566929601,1613566943147,1613566944434,bomba do porão para a primeira caixa ,não liga ,contatos queimada ,troca de contatota / nova ,1613566943147
+388,20,5,0.00,0.00,0.00,0.00,1613753592117,1613753625474,1613753626795,bicos de envase ,vazamento ,troca de oring de ponta ,oring de borracha logo vaza de novo ,1613753625474
+389,18,5,0.00,0.00,0.00,0.00,1613753744630,1613753765294,1613753766547,fechadura amaciante ,fita superior escapando ,ajuste e lubrificação ,,1613753765294
+390,19,5,0.00,0.00,0.00,0.00,1613753840565,1613753868152,1613997696947,tampador da linha de desinfetantes ,rolamentos quebrados ,troca de rolamentos ,obs: capas internas dos rolamentos enferrujadas não soltando do eixo / cortado todos os eixos / fabricação de eixos novos / 23/02/2021-13:30 devolvido para reusinagem / fora de medida de rolamento ,1613753868152
+391,32,5,0.00,0.00,0.00,0.00,1613991057704,1613991068941,1613991070127,bomba bag / retorno para sabão ,travada ,destravada / colocar bomba de maior vazão ,,1613991068941
+392,60,5,0.00,0.00,0.00,0.00,1613997014630,1613997047220,,suporte pistão de corte plástico quebrado ,quebrado ,solda e retifica de canal de regulagem ,,1613997047220
+393,37,5,0.00,0.00,0.00,0.00,1613997400837,1613997414688,1614094202591,aranha formadora de esponja ,varão quebrado ,refazer varão ,,1613997414688
+394,31,5,0.00,0.00,0.00,0.00,1613997547732,1615817184953,1615817186139,bomba de água limpa pra produção ,vazamento selo mecânico ,agendar troca de selo ,,1615817184953
+395,2,5,0.00,0.00,0.00,0.00,1614011780786,1614011802369,1614011803781,rede ar comprimidos ,vazamento ,troca de segmento de mangueira ,,1614011802369
+396,2,5,0.00,0.00,0.00,0.00,1614013685420,1614013697975,1614013699312,bomba de retorno ,transbordando espuma ,recolocado filtro no reservatório retorno ,melhora não resolve / alvejante e clorado na sequência ,1614013697975
+397,32,5,0.00,0.00,0.00,0.00,1614014171258,1614014202043,1614014203597,tanques de coleta de água sanitária e sobras de elaboração / porão compressor ,muitas sujeira plástica / estupimento de tubulação ,limpeza ,,1614014202043
+398,24,0,0,0,0.00,0.00,1614015012413,1614015012413,,plataforma / escada / tanques elaboração amaciante,reforma e ampliação,conf desenho e orçamento,obs( desenho e orçamento encaminhado para aprovação ),1614015012413
+399,5,5,0.00,0.00,0.00,0.00,1614074999400,1614075013782,1614075015169,compressor ,verificação de nível de óleo e purga de rede ,purga do tanque / filtro / rede água sanitária / detergente ,,1614075013782
+400,31,5,0.00,0.00,0.00,0.00,1614075375184,1614075393508,1614075391185,bomba do rio ,verificação da válvula do rio ,limpeza / folhas / plásticos ,,1614075393508
+401,3,5,0.00,0.00,0.00,0.00,1614080201452,1614080229214,1614091951136,painel elétrico envasadora água 1 litro ,desarme geral / desarmes repetidos ,curto em comando solenóide antigo / desativado da antiga bomba pneumática ,serviço elétrico ( Lembek ),1614080229214
+402,3,5,0.00,0.00,0.00,0.00,1614087858246,1614087877968,1614087879138,bicos de envase ,ponta quebrada ,substituir ,,1614087877968
+403,3,5,0.00,0.00,0.00,0.00,1614091175037,1615214480129,1615214481482,bicos de envase ,ponta quebrada ,troca ,,1615214480129
+404,3,5,0.00,0.00,0.00,0.00,1614091229569,1614091242178,1615214566630,bicos de envase ,ponta quebrada ,troca de peça ,,1614091242178
+405,3,5,0.00,0.00,0.00,0.00,1614091305511,1614091321443,1614091322714,boia elétrica tanque do carrocel ,transbordando ,ajuste de altura ,,1614091321443
+406,32,5,0.00,0.00,0.00,0.00,1614091753698,1614091766121,1614091767390,bomba bag retorno ,lenta / entope facil,trocar por uma bomba de maior dimensões ,,1614091766121
+407,6,5,0.00,0.00,0.00,0.00,1614177215844,1614339466336,1614339467639,extintor de incêndio detergente 500 ml,pendurar novamente / soltou o suporte ,"prender com bucha metálica ""paraboit ""10mmx100mm ",obs: chamar empresa que pendurou os extintores para refazer o trabalho ( extintores caindo / bucha plástica soltando ) . risco de acidente . ,1614339466336
+408,6,5,0.00,0.00,0.00,0.00,1614184707868,1614184719785,1614196894261,tampador detergente 500 ml,tampa soltando / não tá clicando ,baixado tampadores ,,1614184719785
+409,67,5,0.00,0.00,0.00,0.00,1614196526104,1614196560247,,portão de ferro doca 01,dobradiças soltas / estrutura batente solto/ podre por baixo ,trocar parte de baixo fazendo estrutura de remendo / trocar chapas de revestimento / reforçar ancoragem das dobradiças / encontrar forma de colocação do revestimento parte inferior ,,1614196560247
+410,31,5,0.00,0.00,0.00,0.00,1614247169902,1614247201383,1614247202753,bomba do rio,verificar vazão ,limpeza válvula ,,1614247201383
+411,5,5,0.00,0.00,0.00,0.00,1614251884799,1614251898588,,porta acesso ao compressor ,reforma / parte inferior e batente podre / não fecha ,remendo e pintura ,obs: correto - fabricar porta e batente novos / ,1614251898588
+412,13,5,0,0.01,0.00,0.01,1614255643889,1614255678795,1614255680297,(tampador ),tampa rachando no clicar na garrafa,a pedido do departamento técnico feito medições em sequência de tampas para identificar possível falhas de produto,,1614255678795
+413,13,5,0,0.02,0.00,0.02,1614258309952,1614258373571,1614258374993,(tampador),tampa soltando,a pedido do departamento técnico feito medição em gargalos e pre-forma para identificar possível falhas de sopro do pet,encontrado variação de medidas de até 1.1mm ovalado de boca e distanciamento nas arestas de clique da rampa e deformação de início de expansão da garrafa,1614258373571
+414,4,5,0.00,0.00,0.00,0.00,1614271728600,1614271743958,1614271745210,bicos de envase ,um bico vazão lenta no clorado ,aberto os dois bicos e não foi encontrado nenhum entupimento ou anomalia ,inconclusivo ,1614271743958
+415,3,5,0.00,0.00,0.00,0.00,1614272826305,1614272842276,1614282762342,boia elétrica ,transbordando tanque de serviço ,verificando / acompanhando / reposicionado boia elétrica ,boia trocada anteriormente e posicionado em baixo da saída do retorno prejudicando seu funcionamento ,1614272842276
+416,68,5,0.00,0.00,0.00,0.00,1614282889179,1614282965937,1614282967273,porta de correr entrada água sanitária ,reforma / remendo ,troca de talas parte de baixo / rebites / solda ,,1614282965937
+417,34,0,0.00,0.00,0.00,0.00,1614342407283,1614343703678,,envasadora 5 litro / clorado ,demora no envazar ,"liberação do duto de ar demorado / "" muito viscoso "" ","1 - fazer bicos novos com duto de ar com maior dimensões - dois bicos para o 5 litro e 16 bicos para o 2 litros 
+2 - mudar viscosidade do produto / deixar mais fluido . 
+obs1: demora de envase natural para uma máquina projetada para água sanitária. obs2: por conta da falta de fluidez natural do detergente foi colocado uma bomba entre envasadora e tanque de elaboração. 
+3 - máquina nova projetada para este tipo de produto ",1614343703678
+418,3,5,0.00,0.00,0.00,0.00,1614343000455,1614343015239,1614343055123,esteira transportadora ,tropessando ,esticar ,,1614343015239
+419,3,1,0,0,0.00,0.00,1614348700880,1614348751755,1614348752991,fechadura de caixa,não corta a fita por baixo,troca de navalha,estoque de navalhas afiadas / no mínimo 2 pares / afiadas por empresa especializada em afiar ferramentas,1614348751755
+420,46,5,0.00,0.00,0.00,0.00,1614360560202,1614360572957,1614361750919,carrinho duas rodas cinza ,eixo torto ,corte e solda ,,1614360572957
+421,46,5,0.00,0.00,0.00,0.00,1614361637562,1614361652672,1614361654042,,quebrado ,solda e corte ,,1614361652672
+422,70,1,0.00,0.00,0.00,0.00,1614364935727,1614364935727,,"saída do tanque 2 "" T "" 60 mm rachado ",trocar ,"1 T de 60mm 
+3 luvas 60 mm",,1614364935727
+423,4,5,0.00,0.00,0.00,0.00,1614366678426,1614366692948,1614366694202,rede ar comprimido ,mangueira rachada ,corte da parte avariada ,,1614366692948
+424,66,5,0.00,0.00,0.00,0.00,1614594099068,1614594110746,1614607661086,alvejante 5 litros ,vazamentos ,sem vedação apropriada / continua vazando . ,,1614594110746
+425,19,0,0.00,0.00,0.00,0.00,1614605164356,1614605164356,,classificador de tampa ,ruído / vibração ,encarceramento acústico ,,1614605164356
+426,36,5,0.00,0.00,0.00,0.00,1614606767445,1614606783528,1614628116872,portão ,saio do trilho / trancado / quebrado ,"consertado e reinstalado corrente 
+micro de fim de curso molhado / secado, selado e remontado ",,1614606783528
+427,18,5,0.00,0.00,0.00,0.00,1614608066627,1614608078493,1614608079613,fechadura / água sanitária ,não liga ,tomada oxidada / troca de pino macho ,,1614608078493
+428,4,5,0.00,0.00,0.00,0.00,1614608670139,1614608690944,1614608692366,bicos de envase ,vazamentos ,não temos vedação correta,continua vazando ,1614608690944
+429,2,5,0,0,0.00,0.00,1614610882964,1614610894477,1618416602176,bicos,bico quebrado / expurgo quebrou rosca dentro do bloquinho,colocado  reserva / fabricar bloquinho novo,,1614610894477
+430,18,5,0.00,0.00,0.00,0.00,1614610961530,1614610972574,1614610973777,navalha de corte ,solta / trocar cRafusos ,,,1614610972574
+431,22,0,0,0,0.00,0.00,1614619145261,1614619145261,,picador de sobras,caixa de material picado solta,,,1614619145261
+432,19,5,0.00,0.00,0.00,0.00,1614620796299,1614620796299,,tampador ,desalinhado / batida com a paleteira ,arrastado de volta a posição ,,1614620796299
+433,19,5,0.00,0.00,0.00,0.00,1614621815755,1614621828045,1614622920767,classificador de tampas ,regulagem / posição / batido com paleteira ,reposicionado e ajustado ,,1614621828045
+434,72,5,0.00,0.00,0.00,0.00,1614687098584,1614687143639,1615316449451,esgoto / saída para tratamento de sobras ,entupido / transbordando ,sifão garganta da saída rasgado ,trocar / comprar sifão novo ,1614687143639
+435,24,5,0.00,0.00,0.00,0.00,1614687295662,1614687310785,1614687312021,tanque água sanitária número 2,"""T"" saída 69mm quebrado ",troca de conexões ,,1614687310785
+436,29,5,0.00,0.00,0.00,0.00,1614687417744,1614687428116,1615406022710,siladeira ,furo na estrutura do rotor de sopro ,troca de chapa 18x36mm,BBS trocou / terceirizado ,1614687428116
+437,73,5,0.00,0.00,0.00,0.00,1614691185779,1614691213468,1614691214837,quadro elétrico ,desarme desjuntor geral ,desjuntor 32A com problemas / trocado /eletricista lembek ,,1614691213468
+438,18,5,0.00,0.00,0.00,0.00,1614694380654,1614694394282,1614694395636,fechadeira água 5 litros ,correia superior saio do guia ,trancamento na roleira ,recolocado correia ,1614694394282
+439,24,5,0.00,0.00,0.00,0.00,1614695231858,1614952734198,1614952735608,tubulação da rede cloro ,registro 32mm / agitador clorado vazando / tanques de cloro 3 PCs / tanques água sanitária 2 PCs ,troca de vedação ou registro ,troca de vedações ,1614952734198
+440,7,5,0,0,0.00,0.00,1614707968014,1614707968014,,rede de pressão,parafuso do flange saída de pressão boca da fornalha quebrado,cortar o velho e trocar,fechado com empresa terceirizada para fazer todas as correções.,1614707968014
+441,2,5,0.00,0.00,0.00,0.00,1614708103646,1614708114799,1614868752119,bico de envase ,entupido ,abrir e verificar / desentupido .,,1614708114799
+442,4,5,0.00,0.00,0.00,0.00,1614711072835,1614711085260,1614711086546,rede ar comprimido ,vazamento ,troca de mangueira 10 mm + duas imensas pneumáticas ,,1614711085260
+443,12,5,0.00,0.00,0.00,0.00,1614711233060,1614711247343,1614868890751,rede amaciante ,peneira entupida ,limpeza ou troca de peneira / troca ,,1614711247343
+444,24,0,0,0,0.00,0.00,1614712042581,1614712042581,,tanque água sanitária número 2,não agita a parte de baixo / caixa sempre foi assim / tentado evitar o uso ficou como caixa reserva por este defeito,fazer entrada de ar no acoplamento antes do registro para teste,"furo com rosca 1/4"" / nível / registro adaptado para mangueira pneumática 10 mm",1614712042581
+445,24,5,0.00,0.00,0.00,0.00,1614715262947,1614715276461,1615559669421,tanque desinfetante. ,furado ,colado por baixo com silicone para produzir dois produtos apenas / depois soldar com MIG / BBS solda TIG em todo o fundo ,não deu certo / sem material suficiente para solda / optado por pintura emborrachada por fora em todo o fundo também sem resultado / transferido produtos para fabricação em outro tanque / feito instalação de rede nova no tanque substituto / obs: tanque sem conserto - descartar  ,1614715276461
+446,22,5,0.00,0.00,0.00,0.00,1614768151811,1614768172898,1614768174183,suporte cavalete sensor ,quebrado ,solda e acabamento ,,1614768172898
+447,2,5,0.00,0.00,0.00,0.00,1614769142859,1614769153779,1614769155082,painel elétrico máquina água 2 litros ,não liga o carrocel ,botoeira de emergência acionada ,,1614769153779
+448,2,5,0.00,0.00,0.00,0.00,1614771832890,1614771844969,1614771846222,elevador de tampas ,não liga ,sensor em curto / troca ,colocado um usado reserva ideal comprar outro reserva / E18-3A30PCT ,1614771844969
+449,44,5,0.00,0.00,0.00,0.00,1614775814702,1614775827106,1614775828326,trava portão fechado ,fabricar trava ,fabricado e instalado ,,1614775827106
+450,74,5,0.00,0.00,0.00,0.00,1614867649106,1614867719201,1614867720421,portão elevação garagem ,coluna duto de contra pesos fora de posição ,aprumado e prendido com cantoneiras junto ao piso ,,1614867719201
+451,36,5,0.00,0.00,0.00,0.00,1614867926282,1614867941026,1614867942246,portão de correr da guarita ,passou do ponto e quebrou a corrente ,fim de curso com infiltração / passando do ponto / troca de fim de curso / conserto de corrente e feito cobertura de proteção em todo o conjunto de tração ,pintura ficou a cargo dos pintores que estão na fábrica ,1614867941026
+452,36,0,0,0,0.00,0.00,1614868192415,1614868192415,,placa do portão / placa sinalização,sujando com o lubrificante das corrediças do portão,colocar soleira na parte superior da placa,,1614868192415
+453,23,5,0.00,0.00,0.00,0.00,1614875613511,1614875657711,1614875658871,picador de milho ,peneira furada ,solda/ remendo ,,1614875657711
+454,43,5,0.00,0.00,0.00,0.00,1614881311561,1614881332243,1614881333397,pedal de acionamento ,não está acionando ,ajuste mola e fim de curso pedal ,,1614881332243
+455,1,5,0.00,0.00,0.00,0.00,1614952986813,1614952999371,1614953000607,guia de entrada plástico novo vela número 1 teste industrial ,guia fabricado fora de medida e mal soldado ) falhas e irregularidades ,refazer soldas e fazer polimento de arestas ,teste de funcionamento ,1614952999371
+456,19,5,0.00,0.00,0.00,0.00,1614958464390,1614958476411,1615406247540,tampador ,ajuste para 500 ml,,,1614958476411
+457,34,3,0,0,0.00,0.00,1615200842529,1615200859531,1622476838317,bomba pneumática saída do tanque,vazamento,fabricar manifold de PVC ou inox / material original da bomba não resiste aí ataque químico,,1615200859531
+458,32,5,0.00,0.00,0.00,0.00,1615206015427,1615206028763,,bomba do porão não liga ,aciona cantareira no painel e bomba não liga / possível bomba queimada ,não foi chamado o eletricista???? ,revisado fiação até a bomba / imenda oxidada refeito imenda / ,1615206028763
+459,53,4,0.00,0.00,0.00,0.00,1615206110926,1615206110926,,caminhão 1518 redondo ,trocar suporte do para choques,feito em oficina especializada ,,1615206110926
+460,31,5,0.00,0.00,0.00,0.00,1615206745417,1615206757105,1615206758393,bomba do rio ,limpeza válvula ajuste altura ,,,1615206757105
+461,5,5,0.00,0.00,0.00,0.00,1615210209936,1615210222726,1615210224314,rede ar comprimido ,purga diária de rede ,,,1615210222726
+462,3,5,0.00,0.00,0.00,0.00,1615220977221,1615220987808,1615406446542,rede água sanitária ,válvula da bóia trancando ,lubrificado ,,1615220987808
+463,14,5,0.00,0.00,0.00,0.00,1615229073314,1615229117590,1615229118993,bandeja ,quebrada ,solda ,,1615229117590
+464,71,5,0.00,0.00,0.00,0.00,1615294452300,1615294516536,1615299370020,,parte inferior podre ,trocar perfis e colocar chapas de revestimento novas ,,1615294516536
+465,24,5,0.00,0.00,0.00,0.00,1615294606859,1615316134527,1615316135812,rede cloro / bomba cloro ,"conexão ""T' quebrada vazando ",trocar ,,1615316134527
+466,11,5,0.00,0.00,0.00,0.00,1615299096592,1615299110385,1615299111638,porta ,colocar suporte de cadeado ,solda no batente e arrebite na porta ,,1615299110385
+467,11,5,0.00,0.00,0.00,0.00,1615299265652,1615299283590,1615299285111,cadeira plástica ,quebrada ,arrebitado chapa para unir a parte quebrada ,,1615299283590
+468,75,0,0,0,0.00,0.00,1615301154124,1615301154124,,elevador de caneco,corrente exposta ao tempo,fabricar protetor de corrente,,1615301154124
+469,24,5,0.00,0.00,0.00,0.00,1615301550527,1615301567082,1615555222555,bomba do amaciante ,vazamento ,vazamento no selo/ trocar selo ,,1615301567082
+470,71,5,0.00,0.00,0.00,0.00,1615301940397,1615554971907,1615554973076,porta pequena ,chapas soltas / prender ,parafuso auto brocante ,,1615554971907
+471,18,5,0.00,0.00,0.00,0.00,1615313315922,1615313337637,1615313339024,fechadeira máquina detergente ,não corta / enrosca fita superior ,ajuste / de pressão desbobinador ,,1615313337637
+472,24,5,0.00,0.00,0.00,0.00,1615316518387,1615316535734,1615316536953,tanque de cloro número 01,acoplamento saída rosca espanada ,fabricar acoplamento novo em PVC ,instalado ,1615316535734
+473,12,5,0.00,0.00,0.00,0.00,1615318678983,1615318696523,1615318697760,tampador ,regulagem de torque ,,,1615318696523
+474,12,5,0.00,0.00,0.00,0.00,1615375348214,1615375361753,1615405798726,tampador / acoplador tampa velha ,espanando rosca / tampa solta / pegando tampa .,colocar mola espulsora / fabricação -usinagen ,,1615375361753
+475,2,5,0.00,0.00,0.00,0.00,1615376154496,1615376173550,1615576293896,bicos de envase ,quebrados / 2 bicos ,gargalos defeituosos / sobra de material internamente / travando o bico na expulsão .,garantir qualidade mínima de injeção de garrafas . ,1615376173550
+476,37,5,0.00,0.00,0.00,0.00,1615376864606,1615376877133,1615405718646,roldana de tração do fio ,variação de ajuste limitado / substituição frequente da borracha ,aumentar curso de regulagem / ,expandir rasgo na carcaça e fazer recorte no braço guia da roldana / idealizado por Sr. Marino ,1615376877133
+477,19,5,0.00,0.00,0.00,0.00,1615404181887,1615404198958,1615404200111,tampador ,classificador de tampas derrubando tampas,desalinhado / batido com paleteira ,,1615404198958
+478,19,5,0,0,0.00,0.00,1615464038682,1615464322763,1615823765426,tanque agitador ELAB 15 desinfetante,tanque alvejante furado sem conserto viável,transferir produtos para outro sistema de elaboração,fazer rede independente para evitar ao máximo o contato de produtos diferentes / instalar bomba exclusiva / orientação para usuários na necessidade expressa da perfeita lavagem entre um produto e outro .,1615464322763
+479,6,5,0.00,0.00,0.00,0.00,1615545112612,1615545155780,1615545157016,tampador ,soltando tampa ,tampas de modelos diferentes misturadas ,,1615545155780
+480,6,5,0.00,0.00,0.00,0.00,1615545289388,1615545300344,1615545301647,sopro limpeza bicos ,manqueira pneumática rompida ,troca de mangueira e conexão ,,1615545300344
+481,12,5,0.00,0.00,0.00,0.00,1615545438791,1615545456218,1615545457506,peneira / filtro ,trocar / entupido ,trocado redinha ,,1615545456218
+482,12,5,0.00,0.00,0.00,0.00,1615545545924,1615545577407,1615545579044,tampador ,troca de modelo de tampa / ajuste ,ajuste / regulagem ,,1615545577407
+483,3,5,0.00,0.00,0.00,0.00,1615545664785,1615545679430,1615545680617,rede água sanitária ,transbordando caixa ,servo registro travando aberto ,lubrificado / ideal troca de registro ,1615545679430
+484,2,5,0.00,0.00,0.00,0.00,1615545782217,1615545797310,1615545798463,rede água sanitária ,não enche a caixa ,servo registro travando fechado ,lubrificado / ideal trocar por novo ,1615545797310
+485,2,5,0.00,0.00,0.00,0.00,1615545999656,1615546009912,1615546011182,bomba de retorno ,não desliga ,Bia com imenda da fiando oxidada (cloro) refeito imenda ,,1615546009912
+486,4,5,0.00,0.00,0.00,0.00,1615546143632,1615546162612,1615546164016,rede ar comprimido ,vazamento,troca de seção de mangueira e conexões ,resolvido vazamento maior ,1615546162612
+487,24,5,0.00,0.00,0.00,0.00,1615546389778,1615546402466,1615546403719,bomba do elaborador de detergente ,voltou do conserto / reinstalar ,trocado conexões e reinstalado ,,1615546402466
+488,24,5,0.00,0.00,0.00,0.00,1615546389778,1615546402466,1615546403719,bomba do elaborador de detergente ,voltou do conserto / reinstalar ,trocado conexões e reinstalado ,,1615546402466
+489,5,5,0.00,0.00,0.00,0.00,1615556461894,1615556507766,1615558599762,compressor / purgador/filtro ,correia cantando na partida / nível de óleo / ,,,1615556507766
+490,66,5,0.00,0.00,0.00,0.00,1615568638150,1615568651861,1615815023331,bicos de envase ,vazamento ,vedação / não temos a correta ,chegou vedação ,1615568651861
+491,31,5,0.00,0.00,0.00,0.00,1615574824935,1615574845862,1615814906052,bomba do filtro da rua ,vazamento ,consertado e reinstalado ,,1615574845862
+492,65,0,0,0,0.00,0.00,1615816678149,1615816699002,,tanque sobrando / sem uso,inspeção e tirar medidas,"r=85cm.  h=160cm  V= 3.630 l 
+saída 50 mm lateral 
+boca de acesso redonda central 40cm
+fundo chato / sem rachaduras aparentes",,1615816699002
+493,24,0,0.23,0.01,0.00,0.24,1615826804718,1615826804718,,tanque da base do amaciante,tampas soltas / dobradiças enferrujadas / quebradas,trocar por dobradiças de inox 3 peças,,1615826804718
+494,76,5,0.00,0.00,0.00,0.00,1615992510009,1615992544376,1616417825344,telhado do silo ,furado / goteiras ,tampar furos / tirar dois respiros e tampar furos/ com chapas arrebitado ,,1615992544376
+495,4,5,0.00,0.00,0.00,0.00,1615992664698,1615992676140,1615992677294,rede pneumática ,vazamentos ,troca de seção de mangueira 6mm e imenda pneumática ,,1615992676140
+496,19,5,0.00,0.00,0.00,0.00,1615992819739,1615992835860,1615992837229,rede dos produtos ,vazamento registro ,troca de vedação dos registro ,,1615992835860
+497,24,5,0.00,0.00,0.00,0.00,1615992920332,1615992933772,1615992934908,tanque número água sanitária n.2,vazamento ,troca de vedação bocal de acoplamento e troca de registro 60 mm ,,1615992933772
+498,5,5,0.00,0.00,0.00,0.00,1615993050617,1615993068260,1615993069479,compressor e rede ,água na rede ,inspeção e purga do compressor e rede ,,1615993068260
+499,24,5,0.00,0.00,0.00,0.00,1616153422929,1616153451467,1616153452636,tanque água sanitária n.3,vazamento registro ,encurtar tubo trocar oring do flange ,colado com silicone / colocado abraçadeira / trocado carcaça do registro trincada ,1616153451467
+500,2,5,0.00,0.00,0.00,0.00,1616153584174,1616153596415,1616418107698,servo registro travando ,troca de registro ,lubrificado ,,1616153596415
+501,66,5,0.00,0.00,0.00,0.00,1616161170480,1616161190589,1616161191959,alvejante 5 litros ,plataforma trancando ,lubrificado guias e haste de cilindro / hidratado vedação dos bicos ,,1616161190589
+502,77,5,0.00,0.00,0.00,0.00,1616164696495,1616164843838,1616164857442,rede parafina trancada / saturada ,deixado registro da parafina aberto/ rede congelada,aquecer com maçarico ,,1616164843838
+503,78,5,0,0,0.00,0.00,1604421101396,1604421115365,,retorno de vapor,tubo quebrado vazamentos,troca de conexões e tubo,anexo lista de materiais,1604421115365
+504,2,5,0.08,0.01,0.00,0.09,1616172746893,1616172761335,,rede ar comprimido limpeza de gargalo,vazamento,troca de trecho de mangueira 6mm e conexões,,1616172761335
+505,18,5,0.00,0.00,0.00,0.00,1616176359727,1616176376861,1616176377996,navalha de corte água 2litros ,não corta fita ,não tem navalha reserva afiada ,não tem navalha reserva afiada confirme combinado a muito tempo ,1616176376861
+506,18,5,0.00,0.00,0.00,0.00,1616418848825,1616418857528,1616418858798,navalha de corte fita ,não corta ,fabricado navalha com lâmina de serra fita e lima 3 quinas ( não tem navalha afiada reserva ) ,pedido antigo de estoque mínimo de navalhas afiadas ( produção parada por 1 hora ) ,1616418857528
+507,2,5,0.00,0.00,0.00,0.00,1616419027571,1616419039168,1616419040338,boia tanque de serviço ,transbordando ,boia solta / prendido com fita de nylon ,,1616419039168
+508,3,5,0.00,0.00,0.00,0.00,1616435784655,1616435796427,1616435797683,esteira de transporte ,tropessando ,esticar ,,1616435796427
+509,27,0,0.17,0,0.00,0.17,1616439870519,1616439870519,,captação água do rio para tanque de serviço,entrada de ar / cano rígido / rompe com o golpe da válvula de ponta,trocar tubos rígidos para mangueira,,1616439870519
+510,19,5,0.00,0.00,0.00,0.00,1616592592592,1616592635549,1616592636919,tampador ,lubrificar ,,,1616592635549
+511,5,5,0.00,0.00,0.00,0.00,1616592836213,1616592848617,1616592849853,rede ar comprimido,purga ,,,1616592848617
+512,6,5,0.00,0.00,0.00,0.00,1616592946860,1616592957299,1616592958670,envasadora e linha ,lubrificar ,,,1616592957299
+513,19,5,0.00,0.00,0.00,0.00,1616599891244,1616599915327,1616599916580,rede glicerinado ,vazamento registro ,troca ,,1616599915327
+514,19,5,0.00,0.00,0.00,0.00,1616599972408,1616599986289,1616599987409,tampador ,ajuste sincronia e guia ,,,1616599986289
+515,16,5,0.00,0.00,0.00,0.00,1616600115983,1616600155164,1616600156575,cômoda de madeira ,portes soltas ,colar ,,1616600155164
+516,19,5,1.00,0.01,0.00,1.01,1616600355933,1616600355933,1616686533030,"rede ""todos""",vazamento registro,troca de registro 32mm,,1616600355933
+517,29,5,0.00,0.00,0.00,0.00,1616600514992,1616600536890,1616778546641,armarinho de ferramentas ,pintura ,,,1616600536890
+518,2,5,0.00,0.00,0.00,0.00,1616610310708,1616610323485,1616610324772,válvula pneumática abastecimento ,travando / transbordando ,defeito não encontrado / acompanhado por 00:30 horas 16 aberturas e fechamento sem problemas ,,1616610323485
+519,79,5,0.00,0.00,0.00,0.00,1616764482907,1616764556035,1616764557305,porta de ferro saída para bomba do rio ,dobradiça quebrada / porta podre ,troca de dobradiça ,,1616764556035
+520,2,5,0.00,0.00,0.00,0.00,1614691096323,1616678290674,1616764700935,sistema elétrico fechamento válvula pneumática ,fiação oxidada / mal contato / transbordamento ,"trocado cabo de comando da bóia / lubrificado válvula solenóide / colocado chave "" jamp"" de bóia. ( fechamento manual a válvula ) ",,1616678290674
+521,80,1,0,0,0.00,0.00,1614787522487,1614787522487,,ralos sem tampa setor água sanitária,feito 8 tampas falta 8,"comprar chapa corrugada 2,5mm ( 12x12 cm) tubo galvanizado 90 mm 2 metros para fabricação de novas tampas",,1614787522487
+522,81,5,0.00,0.00,0.00,0.00,1617042814011,1617042907035,1617042908388,acoplamento caminhão / rede ,vazamento / facilitar ligação,fabricado acoplador de inox / engate removível e cambeavel,,1617042907035
+523,75,5,0.08,0.01,0.00,0.09,1617219712522,1617219712522,1617377153047,elevador de caneco,chapa furada vazamento,janela aberta por terceiro para manutenção do eixo do elevador,soldado novamente a abertura correto seria fazer janela móvel / próxima manutenção tem que cortar estrutura novamente,1617219712522
+524,29,5,0.00,0.00,0.00,0.00,1617219817228,1617219831330,1617219832532,armadilha tipo túnel ,terminar com grade superior e terminar sistema de trava e disparo ,,,1617219831330
+525,13,5,0.00,0.00,0.00,0.00,1617219958778,1617219969939,1617219971042,rede ar comprimido ,vazamentos ,trocado mangueiras e conexões acionamento régua divisora ,,1617219969939
+526,78,5,0.00,0.00,0.00,0.00,1617220087858,1617220111545,1617220112764,tacho vela colorida ,"troca de dois registros 1.1/2"" saída e um registro de pressão 1.1"".",,,1617220111545
+527,13,1,0.04,0.01,0.00,0.05,1617220228515,1617220242224,,sensores contador de garrafas,fabricar suportes de sensor e espelhos ( dois pares ),suporte de sensores instalados falta adquirir os espelhos,falta comprar os espelhos,1617220242224
+528,82,5,0.00,0.00,0.00,0.00,1617220347472,1617220365316,1617220366586,mangueira de saída ,ponta PVC quebrada corta ,troca ,,1617220365316
+529,5,5,0.00,0.00,0.00,0.00,1617220513774,1617220527474,1617220528777,rede ar comprimido ,purga de rede ,,,1617220527474
+530,18,5,0.00,0.00,0.00,0.00,1617279804585,1617279825885,1617279827468,fechadeira de caixa água 5 litros ,não corta fita inferior ,navalha ,,1617279825885
+531,42,5,0.00,0.00,0.00,0.00,1617985590982,1617985610132,1617985611736,tanque parafina cemitério,"registro guilhotina 3"" eixo alavanca quebrado ",trocar eixo ( reaproveitar de outro registro de mesmo modelo ,,1617985610132
+532,31,5,0.00,0.00,0.00,0.00,1618222016119,1618222066875,1618222068063,bomba do rio ,limpeza de válvula ,,,1618222066875
+533,4,5,0.00,0.00,0.00,0.00,1618322827584,1618322843391,1618322844560,bico ,ponta quebrada ,substituído ,,1618322843391
+534,18,5,0.00,0.00,0.00,0.00,1618322943280,1618322958982,1618322960184,fechadeira água 5 litros ,ajustar guias laterais / fita fora de posição ,,,1618322958982
+535,2,5,0.00,0.00,0.00,0.00,1618323049037,1618323063945,1618323065065,bicos ,um bico ponta quebrada / um com base quebrada / um troca de vedação ,,,1618323063945
+536,5,5,0.00,0.00,0.00,0.00,1618481462832,1618481480692,1618481482046,compressor e rede,purga e revisão ,,,1618481480692
+537,4,5,0.00,0.00,0.00,0.00,1618840760607,1618840770776,1618840772079,bico envase ,vazamento ,troca de vedação ,,1618840770776
+538,22,5,0.00,0.00,0.00,0.00,1618840836484,1618840851896,1618840853166,redutor extrusora ,rangindo ,troca de redutor ,,1618840851896
+539,3,5,0.00,0.00,0.00,0.00,1618840935591,1618840959151,1618840960436,tanque de serviço ,transbordando ,limpar contatos ( novamente ) ,,1618840959151
+540,3,5,0.00,0.00,0.00,0.00,1618841034936,1618841045316,1618841046453,bicos ,quebrado ,remanejado de outra máquina ( falta peças ) ,,1618841045316
+541,3,5,0.00,0.00,0.00,0.00,1618841159500,1618841169621,1618841170923,correia transportadora tropessando ,esticar ( esticador rosca espanada ) ,batidas com a caixa de depósito de garrafas pelo operador ao transferir de máquina ,,1618841169621
+542,30,5,0.00,0.00,0.00,0.00,1618843027890,1618843041869,1618843043558,boia ,transbordando ,ajustado flutuador para nível mais baixo ,,1618843041869
+543,83,5,0.02,0.01,0.00,0.03,1618915360620,1618915389465,1618915390685,tanque número 4,vazamento registro,acoplador de tecnil com rosca ruim / compensado com veda rosca e abraçadeira / fabricar novo em PVC,fabricado novo e instalado,1618915389465
+544,3,5,0.05,0,0.00,0.05,1620750543502,1620750413547,1620916568292,mesa acumuladora,pintura de estrutura,aplicar convertedor/ tinta/ resina,resina reagiu com a tinta / refazer com resina Durakene,1620750624960
+545,5,5,0.01,0.02,0,0.03,1620913504636,1620913475010,1620913508186,comoressor,purga / revisão /completar óleo / limpeza / esticar correias / verificar vazamentos.,compressor revisado  / funcionamento satisfatório,obs: automatizar sistema de purga e secagem do ar.,1620913866254
+546,3,5,0,0.01,0,0.01,1620915886625,1620915860311,1620915892702,tampador,cabeça número 3 soltando tampa,regulagem,os ajustes de torque variam conforme vasilhame e tampas,1620915997891
+547,19,5,0,0.01,0,0.01,1620929522067,1620929485476,1620929525568,micro da guia divisora de garrafas,fora de posição,ajustado,,1620929593480
+548,36,5,0,0,0,0,1621262084961,1621262052409,1621262088390,moto- redutor,desarmando disjuntor,trabalhando em fase fio rompido,refeito ligação,1621262169557
+549,84,5,0,0,0.00,0.00,1620916687816,1621262208729,1621262291308,materiais elétricos,classificação /  organização / descarte,classificado materiais elétricos,"classificados e separados 
+agrupados em uma única prateleira",1621262402742
+550,2,5,0.05,0.01,0,0.06,1621262487350,1621262427165,1621262490783,mesa inox empacotamento,quebrada chapa da mesa solta,solda e polimento de borda,,1621262537348
+551,4,5,0.04,0.07,0.00,0.11,1621251224780,1621337589694,1623167403799,bicos de envase,"lento no detergente clorado, peso baixo",bicos não desenvolvido para líquidos de baixa fluidez / agrava com a baixa temperatura,"testar ar forçado ( Venturi ) vácuo na garrafa sem contato com o produto.
+resultados :
+- peso adequado 
+- velocidade de envase baixado para 26s.( velocidade anterior 140s quando temperatura ambiente menor que 20°C )
+refeito instalação da bomba pneumática 
+colocado boia pneumática com acionamento da bomba",1621337757132
+552,58,5,0.06,0.03,0.00,0.09,1621366111255,1621365854607,1624558091755,saída vapor condensado tacho sabão,podre trocar,,,1621366171135
+553,85,3,0.05,0.04,0,0.09,1621280033448,1621366261938,,armário de produtos em teste,reforma / prateleiras caindo,,,1621366486529
+554,85,3,0.16,0.03,0.00,0.19,1621367995324,1621367649306,,armário usado para colocar no almoxarife,reforma / tirar partes poderes,,,1621367749345
+555,85,3,0.02,0.03,0,0.05,1621368237689,1621368164918,,armário para futuro almoxarife,reforma / pintura,,,1621368268384
+556,86,5,0.30,0,0.00,0.30,1621251342837,1621596874868,1623167304490,tampador pneumático detergente linha de detergente 1L,máquina nova / instalação,instalar rede elétrica trifásica com aterramento / instalar rede pneumática .,"rede elétrica terceirizada (Lembek) 
+rede pneumática falta registro geral .",1621597057595
+557,4,5,0,0,0.00,0.00,1615221048552,1620059424253,1622651474032,envasadora lenta / baixa produção/ detergente clorado 2.000 litros 6:30 h.,baixa vasão / escoamento lento / produto não desce por gravidade / forçar produto .,mudar princípio de funcionamento da máquina de envase por gravidade por envase forçado Venturi provocando vácuo.,sistema envase forçado funcionando / envase detergente clorado baixado para 2 horas,1622565472515
+558,13,5,0,0,0.00,0.00,1623167876702,1623167810729,1623253172415,rede de entrada e saída novo produto,produto novo em garrafa nova,"fazer nova rede do tanque misturador pra tanque armazenagem
+fazer nova rede do tanque de armazenagem para máquina 1 litro detergente",falta adaptar máquina de 1 litro detergente para 3 litros lava roupas,1623168057366
+559,24,5,0.23,0,0.00,0.23,1624897006940,1624896955607,1625076429872,rede de subida do detergente,3 registros quebrados,troca de registros e conexões,obs: alguns itens tem no estoque .,1624897092737
+560,87,5,10.10,0.03,0.00,10.13,1625491044251,1625490991748,1627063561865,tubulação nova para tanque do sal,fazer rede nova do tanque do sal para tanque pequeno do lava roupas ( água quente ),rede nova,,1625491110781
+561,22,5,0.01,0.02,0.00,0.03,1625856659735,1626115668453,1626115864279,extrusora embalagens,troca de conjunto de rosca,desmontar e montar rosca recuperada,,1626202236275
+562,24,5,0.05,0.02,0.00,0.07,1623959834504,1625773474023,1625860640511,rede descarga do hipoclorito  / soda,vazamento espigão e vazamento registro selecionador de tanques,troca,,1626205652173
+563,2,5,0.00,0.02,0.00,0.02,1626266852614,1626266728224,1626266855708,bicos de envase,mangueira e espigão quebrados 3 bicos,troca,até ressecar novamente / média 2 meses,1626266837731
+564,58,5,0.04,0,0.00,0.04,,1626274310759,,,,,,1626274485110
+565,12,5,3.04,0.01,0.00,3.05,1626360585696,1626360305532,1626360589434,rede limpeza envasadora amaciante,troca de registro e troca de acoplamento da mangueira de limpeza,,,1626360370799
+566,4,5,0.40,0.05,0.00,0.45,1626361298427,1626360799484,1626804289879,roleira saída da embaladora máquina água 5 L,fabricação de nova estrutura,,,1626360890046
+567,13,3,5.32,0.05,0.00,5.37,1626348834540,1626430984907,1627054517642,"máquina envase ""detergente 1 L """,instalar rede de alimentação de produto novo ( para esta máquina ) independente,montar rede nova 40 mm desde o tanque de estoque até a máquina com entrada de água para lavação / bóia nova e furacão para boia nova / consertar tampa da caixa da máquina para facilitar acesso/ furacão lage e isolamento com espuma expansiva,,1626431072789
+568,88,5,0.02,0.02,0.00,0.04,1626717558659,1626717486671,1626717562252,tanque cebo 01 ( porta),vazamento na união da serpentina,troca de união,,1626717669696
+569,89,5,0.02,0.07,0.00,0.09,1626715283751,1626801399539,1626801687727,bomba reserva hipoclorito,vazamentos / perda de rendimento,refazer acento traseiro do selo / refazer eixo no acento do selo / usinar tampa traseira da carcaça.,,1626801670893
+570,2,5,4.52,0,0.00,4.52,1626979297412,1626979055748,1626979300418,bicos de envase,mangueira rachada 2 unidades,troca / mangueira de PVC reage com o cloro,,1626979093618
+571,2,5,0,0.01,0,0.01,1626980506208,1626980430179,1626980510039,bomba retorno,não puxa ( relatado ),não encontrado defeito bomba funcionando normal ( acompanhado 8 ciclos ),,1626980532340
+572,12,5,0,0.01,0.00,0.01,1627041313225,1627041241942,1627041316723,tampador,trancando garrafas,ajuste de guia e estrela,,1627041363766
+573,55,5,0.01,0.02,0.00,0.03,1627041761237,1627041520351,1627041764580,calha para sabão de coco,fabricar duas calhas para escoar sabão para formas,fabricação sob medida,,1627041694321
+574,12,5,0.02,0.01,0.00,0.03,1627042237872,1627042208783,1627042240871,tampador,quebra da mola expulsarora da tampa / cabeça de torque,troca da mola e trava de parafuso do conjunto,,1627042446212
+575,12,5,0.01,0.01,0.00,0.02,1627047165536,1627047012827,1627047168473,abastecimento máquina amaciante,troca de peneira entrada do produto,troca / peneira saturada,,1627047225218
+576,3,5,22.57,0.01,0.00,22.58,1626967649036,1627054006566,,bicos de envase,mangueiras quebradas / vazamento,troca de mangueiras ( 5 ).,mangueira corrugada de PVC / correto corrugado de silicone,1627054162307
+577,90,5,0.16,0,0.00,0.16,1626968434967,1627054564706,1626968438753,identificação geral de manutenção mecânica e elétrica,corte e furacão de compensado para fabricar placas de identificação,pedido da segurança do trabalho,,1627054823453
+578,91,3,0.06,0.03,0.00,0.09,1626968669210,1627054992665,,paleteira setor garrafinha,estrutura quebrada / garfo aberto /,macaquear garfos para posição / soldar junções quebradas,,1627055240494
+579,92,5,0,0.01,0.00,0.01,1627060973009,1627059098524,1627060976314,agitador,desarme inversor,"falta de perícia do operador na ligada
+ligado o versor em rotação máxima na partida causando alta corrente e consequentemente desarme só mesmo",,1627059154434

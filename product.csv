@@ -1,0 +1,127 @@
+id,description,sale_unit_id,sale_price,cost_price,category_id,notes,created_at
+1,Silicone P.U.40 Tubo,23,29.00,28.00,2,,1549552492636
+2,Lixa Ferro 80 G,23,0.01,0.01,2,,1549552540690
+3,Cinturao De Inox,23,151.00,150.00,2,,1549566724856
+4,Fita De Poliester Enforca Gato,23,0.10,0.10,2,,1549566820190
+5,Reforma Compressor,23,1301.00,1300.00,3,terceirizado reforma,1551284326772
+6,Joelho De Ferro 2.1/2 Pol,23,120.00,120.00,2,,1551284591472
+7,"Torneira De Jardim 1/2"" ",23,1.00,1.00,2,,1596814165614
+8,"Eletrodo Revestido 3,25mm",23,2.30,2.30,2,,1578520948432
+9,Valvula Solenoide 5x2 Vias,23,161.00,160.00,2,,1551900097625
+10,"Eletrodo Revestido 2,5mm",23,0.01,0.01,2,,1578520924144
+11,Mangueira Pneumática 6mm,16,0.01,0.01,2,,1566426669312
+12,Correia Cinta Duas Lonas ,16,45.00,45.00,2,,1566427177790
+13,Tubos E Conexões 100 mm ( Pacote),23,2450.00,2450.00,2,,1566427365546
+14,Cavaletes Suporte P/ Tubo 100 mm,23,35.00,35.00,2,,1566427452882
+15,"Mangueira Garganta 1"" ",16,4.50,4.50,2,,1566428370057
+16,Conexões 60mm,23,8.00,8.00,2,,1566428440649
+17,Óleo Pneumático ,15,35.00,35.00,2,,1566475531413
+18,Adesivo Instantâneo ( Super Bond),23,0.01,0.01,2,,1616171939417
+19,Chapa De Alumínio ,20,15.00,15.00,2,,1566478600849
+20,Ferragens Construção Coluna E Base.,23,150.00,150.00,2,feito de sucata e sobras da oficina.,1578520967951
+21,Fita De Nilon Preta,23,0.10,0.10,2,,1578521043942
+22,Lixa Ferro 400g,23,0.01,0.01,2,,1578521060534
+23,Oring 30x2 mm,23,2.00,2.00,2,,1566485390216
+24,Raspador Tipo Gaxeta 30x4 mm,23,6.00,6.00,2,,1578520702716
+25,Chapa Nylon Usinada,23,80.00,80.00,2,,1566485581819
+26,"Eletrodo Revestido Inox 3,25mm",23,4.00,4.00,2,,1578520886463
+27,Bóia Mecânica De Flutuador,23,35.00,35.00,2,,1566485710658
+28,Conexão PVC Tipo T 50 mm Soldável ,23,1.00,0.00,2,,1596814054918
+29,"Conexão PVC Tipo Adaptador 50 mm Soldável / 1/2"" Rosca ",23,1.00,0.00,2,,1596812556203
+30,Mangueira De Jardim Completa Com Conexões Clik E Esguicho ,16,1.00,0.00,2,,1596814420754
+31,Suporte Plástico Para Mangueira De Jardim ,23,1.00,0.00,2,,1596814700842
+32,Parafuso Fhilips 4x40mm ,23,1.00,0.00,2,,1596814803433
+33,Bucha Plástica 8mm ,23,1.00,0.00,2,,1596814835879
+34,"Dobradiça Gonzo 5/8""",23,1.00,0.00,2,,1596892173265
+35,Vedação Tipo Gaxeta Quadrada 30mm P.U.,23,1.00,0.00,2,,1597065950659
+36,Chapa PVC Usinado Conf Desenho ,23,1.00,0.00,2,,1597066418553
+37,Conexão PVC Tipo T 32mm Soldável ,23,1.00,0.00,2,,1597066911934
+38,Tubo PVC 32mm,16,1.00,0.00,2,,1597067015177
+39,Registro PVC 32mm Com Rosca ,23,1.00,0.00,2,,1597067106290
+40,Conexão PVC Tipo Adaptador 32mm,23,1.00,0.00,2,,1597067203284
+41,Registro PVC 50mm C Rosca ,23,1.00,0.00,2,,1597067366647
+42,Correia B 68 ,23,28.00,0.00,2,,1599084288614
+43,"Válvula Horizontal 3/4""",23,120.00,0.00,2,,1599084763993
+44,Chapa Ferro Conf Desenho ,20,30.00,0.00,2,,1599085054471
+45,Painel Elétrico Comando 3 Bombas,23,850.00,0.00,2,,1599141398819
+46,Tomada E Plug Para Cabo De Extensão,23,12.00,0.00,2,,1599230930755
+47,Contator 50 Ah,23,320.00,320.00,2,,1607530389754
+48,Caixa Plástica De Ligação,23,60.00,60.00,2,,1607530453951
+49,Mangueira Ar Comprimido 6mm,16,0.01,0.01,2,,1616173012812
+50,Conexão Reta Pneumática 6mm,23,0.01,0.01,2,,1616173111635
+51,esticador fabricação,23,0.01,0.01,2,fabricação de esticador sob medida,1620913854801
+52,convertedor de ferrugem,15,0.01,0.01,2,unidade em litros,1620916366249
+53,tinta acrílica,15,0.01,0.01,2,tinta para metais,1620916726404
+54,tinta,15,0.01,0.01,2,,1620916959095
+55,"pincel 2""",23,0.01,0.01,2,,1620917032055
+56,resina parda,23,0.01,0.01,2,resina de laminação,1620917151875
+57,acoplador de ponta de tanque,23,0.01,0.01,2,acoplador usinado em PVC sob medida,1620917763227
+58,veda rosca,23,0.01,0.01,2,,1620917864449
+59,suporte sensor sob medida,23,0.01,0.01,2,suporte fabricado sob medida,1620918202282
+60,"mangueira garganta 2""",16,0.01,0.01,2,,1620920505014
+61,"abraçadeira 2""",23,0.01,0.01,2,,1620920577830
+62,"dobradiça inox 3""",23,0.01,0.01,2,,1620921011003
+63,arrebite 6 mm,23,0.01,0.01,2,,1620921071273
+64,"joelho certo 1""",23,0.01,0.01,2,,1621365957030
+65,"tubo ferro 1""",16,0.01,0.01,2,,1621366017598
+66,lixa flap 80G,23,0.01,0.01,2,,1621366378781
+67,parafuso sextavado M8X10 com porca,23,0.01,0.01,2,,1621367926958
+68,mangueira pneumática 10 mm,16,0.01,0.01,2,,1621597131619
+69,"regulador de pressão 3/8"" com filtro e purgador automático",23,0.01,0.01,2,,1621613292738
+70,"adaptador pneumático 3/8"" rosca 10mm pressão",23,0.01,0.01,2,,1621613439641
+71,"joelho pneumático 3/8""",23,0.01,0.01,2,,1621613501966
+72,"registro pneumático 3/8""",23,0.01,0.01,2,,1621613574697
+73,"nipel de redução pneumático 1/2"" X 3/8""",23,0.01,0.01,2,,1621613649836
+74,conexão T pneumático 10mm,23,0.01,0.01,2,,1621613855537
+75,joelho pneumático 10mm,23,0.01,0.01,2,,1621613905729
+76,"nipel pneumático 3/8""",23,0.01,0.01,2,,1621614130680
+77,regulador de pressão 3/8 com purga,23,0.01,0.01,2,,1621870643763
+78,joelho 50mm soldável tigre,23,0.01,0.01,2,,1624896613836
+79,T 50 mm soldável tigre,23,0.01,0.01,2,,1624896657002
+80,registro 50 mm rosca tigre,23,0.01,0.01,2,,1624896714365
+81,adaptador 50 mm rosca / soldável tigre,23,0.01,0.01,2,,1624896759359
+82,joelho 50 mm soldável tigre,23,0.01,0.01,2,,1624896797591
+83,luva 50 mm soldável tigre,23,0.01,0.01,2,,1624896846498
+84,cano 50 mm soldável tigre,16,0.01,0.01,2,barra de 6 m,1624896939569
+85,joelho PVC 32 mm soldável,23,0.01,0.01,2,,1625491796424
+86,redução PVC soldável 50--32 mm,23,0.01,0.01,2,,1625492245035
+87,protetor de correias 850 mm,23,0.01,0.01,3,,1626199906647
+88,conjunto de rosca extrusora,23,0.01,0.01,2,conjunto de rosca retificada por terceiro apenas montagem,1626202221555
+89,espigão inox 40 mm,23,0.01,0.01,2,fabricado usinagem,1626205574335
+90,registro PVC 40 mm com rosca,23,0.01,0.01,2,,1626205639909
+91,curva PVC 40 mm longa,23,0.01,0.01,2,,1626205733930
+92,luva PVC 40 mm rosca / soldável,23,0.01,0.01,2,,1626205928886
+93,luva PVC 40 mm soldável,23,0.01,0.01,2,,1626206009973
+94,joelho ferro 3/4 Tupi,23,0.01,0.01,2,,1626274385868
+95,nipel ferro 3/4 Tupi,23,0.01,0.01,2,,1626274445611
+96,solda mig (aplicada ),3,0.01,0.01,4,,1626274652898
+97,espelho para sensor,23,0.01,0.01,2,,1626352587447
+98,nipel PVC 32 mm,23,0.01,0.01,2,,1626360418478
+99,cano PVC 25 mm soldável,16,0.01,0.01,2,,1626360508838
+100,"abraçadeira 1.1/2"" inox",23,0.01,0.01,2,,1626360756861
+101,"tubo inox 1""",16,0.01,0.01,2,,1626360871150
+102,chapa inox 2 mm,16,0.01,0.01,2,,1626360965553
+103,tarugo tecnil 50 mm,16,0.01,0.01,2,,1626361147010
+104,tubo PVC 40 mm soldável,16,0.01,0.01,2,,1626431062439
+105,joelho PVC 40 mm soldável tigre,23,0.01,0.01,2,,1626432830697
+106,Flange PVC 40 mm,23,0.01,0.01,2,,1626432965411
+107,serra copo com base 40 mm,23,0.01,0.01,5,,1626433250000
+108,"boia de vareta 1"".",23,0.01,0.01,2,,1626433345930
+109,conexão PVC tipo adaptador 40 mm,23,0.01,0.01,2,,1626433500097
+110,conexão PVC tipo T 40 mm soldável,23,0.01,0.01,2,,1626434159810
+111,espuma expansiva,23,0.01,0.01,2,,1626434499639
+112,cola PVC alta fusão,14,0.01,0.01,2,,1626436253603
+113,serra para arco de serra,23,0.01,0.01,2,,1626436358651
+114,nipel de redução 40 / 32 mm,23,0.01,0.01,2,,1626436575547
+115,cano PVC 40 mm,23,0.01,0.01,2,,1626437106698
+116,redução PVC 40--32mm soldável,23,0.01,0.01,2,,1626438112723
+117,flange PVC 32 mm,23,0.01,0.01,2,,1626443228924
+118,"união metálica 1.1/4"" com junção de cobre",23,0.01,0.01,2,,1626717754970
+119,madeira / reciclagem / paletes,23,0.01,0.01,2,,1627041680084
+120,Mola 15X15 arame 2.5mm,23,0.01,0.01,2,,1627042421768
+121,peneira tipo redinha malha 0.25,23,0.01,0.01,2,,1627047136682
+122,compensado  200x200x5 mm,23,0.01,0.01,2,,1627054707570
+123,barbante pavio,16,0.01,0.01,2,,1627054803726
+124,"disco corte 4"" Esmerilhadeira",23,0.01,0.01,2,,1627055352377
+125,disco Flap 60g Esmerilhadeira,23,0.01,0.01,2,,1627055397473
+126,tinta amarelo segurança,15,0.01,0.01,2,,1627055701588
