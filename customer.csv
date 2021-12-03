@@ -1,90 +1,90 @@
-id,person_type,company_name,trade_name,cnpj_cpf,ie,notes,created_at,phone,mobile,email,address,address_number,district,complement,zip,city_id
-1,0,Plastificadora De Vela,,,,,1549551879190,(00) 1,,,Zavaski,,,,,
-2,0,Envasadora Agua 2 L,,,,,1549552020559,(03) 1,,,Zavaski,,,,,
-3,0,Envasadora Agua 1 L,,,,,1549552066695,(03) 2,,,Zavaski,,,,,
-4,0,Envasadora Agua 5 L,,,,,1549552130004,(03) 3,,,Zavaski,,,,,
-5,0,Compressor Agua Sanitaria,,,,,1551283957194,,,,Zavaski,,,,,
-6,0,Envasadora Detergente 500 ML,,,,,1551284025172,,,,Zavaski,,,,,
-7,0,Caldeira,,,,Marino,1551284467858,,(48) 99929-1372,,Zavaski,,,Marino,,
-8,0,Refeit√≥rio,,,,,1551349802884,,,,,,,,,
-9,0,Port√£o Setor √Ågua Sanit√°ria,,,,,1551350009436,,,,,,,,,
-10,0,Estoque Setor Elabora√ß√£o,,,,,1566396439248,,,,Zavaski,,,Operadores - Vairton / Fernando,,
-11,0,F√°brica De Ra√ß√£o,,,,,1566407445659,,,,,,,Chupim Picador Martelo / Caixa,,
-12,0,Envase Amaciante.,,,,"linha alimenta√ß√£o, envase, tampa manual, tampador cruz de malta",1566411892482,,,,Zavaski,,,,,
-13,0,Detergente 1 Litro,,,,"alimenta√ß√£o, envase toutch, tampa manual",1566412024147,,,,Zavaski,,,,,
-14,0,M√°quinas Vela,,,,29 m√°quinas de diversos formatos,1566412917358,,,,,,,,,
-15,0,Envasadora Amaciante 5 Litros,,,,,1566425867117,,,,,,,,,
-16,0,Caf√© Torra E Moagem,,,,,1566426335335,,,,,,,,,
-17,0,Caf√© Embalagem,,,,,1566426349938,,,,,,,,,
-18,0,Fechadeira De Caixa,,,,,1566429489664,,,,,,,,,
-19,0,Envasadora Desinfetante,,,,,1566429861286,,,,,,,,,
-20,0,Envasadora Desinfetante 5 L,,,,,1566430031234,,,,,,,,,
-21,0,Setor Sab√£o,,,,,1566430177726,,,,Zavaski,,,,,
-22,0,Embalagens Extrusoras,,,,,1566821136072,,,,,,,,,
-23,0,F√°brica Ra√ß√£o,,,,,1566896009966,,,,,,,,,
-24,0,Elabora√ß√£o Agitadores / Tanques,,,,,1566991685640,,,,,,,,,
-25,0,Elevadores De Paletizados,,,,,1578510211093,,,,,,,,,
-26,0,Caminh√£o Ra√ß√£o,,,,,1578569229324,,,,,,,,,
-27,0,Sistema Resfriamento M√°quinas De Vela,,,,,1578573814774,,,,,,,,,
-28,0,Ventiladores,,,,,1578599854884,,,,,,,,,
-29,0,Servi√ßos Granja,,,,,1578600344678,,,,,,,,,
-30,0,Envasadora Amaciante 5 L,,,,,1578934281552,,,,,,,,,
-31,0,Esta√ß√£o Tratamento ETA ( Entrada ),,,,,1581348224243,,,,,,,,,
-32,0,Esta√ß√£o De Tratamento ETE ( Sa√≠da ),,,,composto de um tanque subterr√¢neo acumulador - uma caixa 5000 L tratamento e decanta√ß√£o - uma caixa 5000 L evapora√ß√£o de gases - uma caixa com carv√£o ativado .,1581348245856,,,zavaski@zavaski.com.br,Anexo Ao Setor De Querosene,,,Tratamento De Sobras De Lava√ß√£o De M√°quinas,,4202800
-33,0,√Ålcool Gel,,,,,1596471434266,,,,,,,,,
-34,0,Elabora√ß√£o Detergente Clorado,,,,,1596810714497,,,,,,,,,
-35,0,Compressor Parafuso,,,,,1596815149954,,,,,,,,,
-36,0,Port√£o Guarita,,,,,1597338848826,,,,,,,,,
-37,0,M√°quina Esponja,,,,,1599048991144,,,,,,,,,
-38,0,Tobatta,,,,,1599049796332,,,,,,,,,
-42,0,Tanques De Parafina,,,,,1599083019419,,,,,,,,,
-43,0,Prensa Papel√£o Prendedor,,,,,1603713732237,,,,,,,,,
-44,0,Port√£o Doca 2,,,,,1603731592907,,,,,,,,,
-45,0,Taques √Ågua Sanit√°ria,,,,,1603731863001,,,,,,,,,
-46,0,Carrinho De Carga 2 Rodas,,,,,1603735629326,,,,,,,,,
-47,0,Manutencao,,,,,1605004899893,,,,,,,,,
-48,0,Setor Vela,,,,,1605109007422,,,,,,,,,
-49,0,Rede Lauril,,,,,1605187059626,,,,,,,,,
-50,0,Palete Plataforma,,,,,1605188746568,,,,,,,,,
-51,0,Seguran√ßa,,,,,1605205102099,,,,,,,,,
-52,0,Passa Fita Manual,,,,,1605291091918,,,,,,,,,
-53,0,Caminh√£o,,,,,1605635877498,,,,,,,,,
-54,0,Ser√° Pasta,,,,,1605701311796,,,,,,,,,
-55,0,Tacho Sab√£o Coco,,,,,1605702382735,,,,,,,,,
-56,0,Extrusora Sabao,,,,,1605702926939,,,,,,,,,
-57,0,Tacho Sab√£o De Amarelo,,,,,1605703767742,,,,,,,,,
-58,0,Tacho Sab√£o Amarelo,,,,,1605704139157,,,,,,,,,
-59,0,Tacho Sab√£o Glicerinado,,,,,1605704503974,,,,,,,,,
-60,0,Elaborador De Sab√£o,,,,,1605705469987,,,,,,,,,
-61,0,Tacho Sab√£o Azul,,,,,1605706205955,,,,,,,,,
-62,0,Fogareiro Da Vela,,,,,1605706720122,,,,,,,,,
-63,0,Plataforma Guincho Sab√£o,,,,,1605707692103,,,,,,,,,
-64,0,Chuveiro Emerg√™ncia,,,,,1606504180344,,,,,,,,,
-65,0,Cera L√≠quida,,,,,1606746146070,,,,,,,,,
-66,0,Alvejante Sem Cloro,,,,,1607951882809,,,,,,,,,
-67,0,Port√£o Doca 01,,,,,1614196548593,,,,,,,,,
-68,0,Port√£o Pequeno √Ågua Sanit√°ria,,,,,1614282951600,,,,,,,,,
-69,0,Extintores De Inc√™ndio,,,,,1614339441716,,,,,,,,,
-70,0,Tanques De √Ågua Sanit√°ria,,,,,1614364982238,,,,,,,,,
-71,0,Port√£o F√°brica Ra√ß√£o,,,,,1614366349555,,,,,,,,,
-72,0,Cocho √Ågua Sanit√°ria,,,,,1614687129457,,,,,,,,,
-73,0,Pavilh√£o √Ågua Sanit√°ria,,,,,1614691206057,,,,,,,,,
-74,0,Casa Zavaski,,,,,1614867698801,,,,,,,,,
-75,0,Elevador Silo De Milho,,,,,1615301181566,,,,,,,,,
-76,0,Silo Ra√ß√£o,,,,,1615992530208,,,,,,,,,
-77,0,Rede Parafina,,,,,1616164753304,,,,,,,,,
-78,0,Tacho De Parafina Retorno,,,,,1616165714563,,,,,,,,,
-79,0,Portas Setor Sab√£o,,,,,1616764538526,,,,,,,,,
-80,0,Calhas E Canaletas,,,,,1617033646383,,,,,,,,,
-81,0,Rede Cloro / Soda Caminh√£o,,,,,1617042893218,,,,,,,,,
-82,0,Elaborador Base De Detergente,,,,,1617220406622,,,,,,,,,
-83,0,Tanques √Ågua Sanit√°ria,,,,,1618914801704,,,,,,,,,
-84,0,oficina,,,,,1621262245408,,,,,,,,,
-85,0,arm√°rio de ferro,,,,,1621366290729,,,,,,,,,
-86,0,tampador detergente 1L,,,,,1621596908101,,,,,,,,,
-87,0,TANQUE DO SAL,,,,,1625491015728,,,,,,,,,
-88,0,Tanque cebo,,,,,1626717530229,,,,,,,,,
-89,0,"Bomba rotor simples 1""  - 3 CV hipoclorito",,,,carca√ßa PVC selo de inox ,1626801526659,,,,,,,,,
-90,0,placas de identifica√ß√£o seguran√ßa,,,,,1627054601412,,,,,,,,,
-91,0,paleteira jacar√© hidr√°ulica,,,,,1627055040475,,,,,,,,,
-92,0,desinfetante tanque agitador,,,,,1627059129014,,,,,,,,,
+id;person_type;company_name;trade_name;cnpj_cpf;ie;notes;created_at;phone;mobile;email;address;address_number;district;complement;zip;city_id
+1;0;Plastificadora De Vela;;;;Embala velas do setor de velas;1,54955E+12;(00) 1;;;Zavaski;;;;;
+2;0;Envasadora Agua 2 L;;;;Envasadora a carretel;1,54955E+12;(03) 1;;;Zavaski;;;;;
+3;0;Envasadora Agua 1 L;;;;Envasadora a carretel;1,54955E+12;(03) 2;;;Zavaski;;;;;
+4;0;Envasadora Agua 5 L;;;;Envasadora a carretel;1,54955E+12;(03) 3;;;Zavaski;;;;;
+5;0;Compressor Agua Sanitaria;;;;;1,55128E+12;;;;Zavaski;;;;;
+6;0;Envasadora Detergente 500 ML;;;;Envasadora de mesa mÛvel;1,55128E+12;;;;Zavaski;;;;;
+7;0;Caldeira;;;;Marino;1,55128E+12;;(48) 99929-1372;;Zavaski;;;Marino;;
+8;0;RefeitÛrio;;;;;1,55135E+12;;;;;;;;;
+9;0;Port„o Setor ¡gua Sanit·ria;;;;Port„o basculante de aÁo;1,55135E+12;;;;;;;;;
+10;0;Estoque Setor ElaboraÁ„o;;;;;1,5664E+12;;;;Zavaski;;;Operadores - Vairton / Fernando;;
+11;0;F·brica De RaÁ„o;;;;;1,56641E+12;;;;;;;Chupim Picador Martelo / Caixa;;
+12;0;Envase Amaciante.;;;;linha alimentaÁ„o, envase, tampa manual, tampador cruz de malta;1,56641E+12;;;;Zavaski;;;;;
+13;0;Detergente 1 Litro;;;;alimentaÁ„o, envase toutch, tampa manual;1,56641E+12;;;;Zavaski;;;;;
+14;0;M·quinas Vela;;;;29 m·quinas de diversos formatos;1,56641E+12;;;;;;;;;
+15;0;Envasadora Amaciante 5 Litros;;;;Envasadora a carretel;1,56643E+12;;;;;;;;;
+16;0;CafÈ Torra E Moagem;;;;;1,56643E+12;;;;;;;;;
+17;0;CafÈ Embalagem;;;;FabricaÁ„o de embalagens e embalamento de cafÈ;1,56643E+12;;;;;;;;;
+18;0;Fechadeira De Caixa;;;;Esteira ajust·vel de passar fita em caixa de papel„o;1,56643E+12;;;;;;;;;
+19;0;Envasadora Desinfetante;;;;Envasadora de mesa mÛvel;1,56643E+12;;;;;;;;;
+20;0;Envasadora Desinfetante 5 L;;;;Envasadora de mesa mÛvel;1,56643E+12;;;;;;;;;
+21;0;Setor Sab„o;;;;;1,56643E+12;;;;Zavaski;;;;;
+22;0;Embalagens Extrusoras;;;;;1,56682E+12;;;;;;;;;
+23;0;F·brica RaÁ„o;;;;;1,5669E+12;;;;;;;;;
+24;0;ElaboraÁ„o Agitadores / Tanques;;;;FabricaÁ„o de novos componentes pras linhas de lÌquidos;1,56699E+12;;;;;;;;;
+25;0;Elevadores De Paletizados;;;;Maquina para facilitar o manuseio de paletes carregados;1,57851E+12;;;;;;;;;
+26;0;Caminh„o RaÁ„o;;;;;1,57857E+12;;;;;;;;;
+27;0;Sistema Resfriamento M·quinas De Vela;;;;Resfriamento lÌquido da matriz de velas;1,57857E+12;;;;;;;;;
+28;0;Ventiladores;;;;;1,5786E+12;;;;;;;;;
+29;0;ServiÁos Granja;;;;Envasadora a carretel;1,5786E+12;;;;;;;;;
+30;0;Envasadora Amaciante 5 L;;;;Envasadora a carretel;1,57893E+12;;;;;;;;;
+31;0;EstaÁ„o Tratamento ETA ( Entrada );;;;;1,58135E+12;;;;;;;;;
+32;0;EstaÁ„o De Tratamento ETE ( SaÌda );;;;composto de um tanque subterr‚neo acumulador - uma caixa 5000 L tratamento e decantaÁ„o - uma caixa 5000 L evaporaÁ„o de gases - uma caixa com carv„o ativado .;1,58135E+12;;;zavaski@zavaski.com.br;Anexo Ao Setor De Querosene;;;Tratamento De Sobras De LavaÁ„o De M·quinas;;4202800
+33;0;¡lcool Gel;;;;composto de misturador e envasador de mesa mÛvel quatro cabeÁas;1,59647E+12;;;;;;;;;
+34;0;ElaboraÁ„o Detergente Clorado;;;;ExperimentaÁ„o com novo produto;1,59681E+12;;;;;;;;;
+35;0;Compressor Parafuso;;;;Compressor que alimenta sistemas pneum·ticos de mÈdia press„o no setor de envase;1,59682E+12;;;;;;;;;
+36;0;Port„o Guarita;;;;Port„o de aÁo de correr;1,59734E+12;;;;;;;;;
+37;0;M·quina Esponja;;;;Enroladora de linha de aÁo;1,59905E+12;;;;;;;;;
+38;0;Tobatta;;;;Tobatta da granja;1,59905E+12;;;;;;;;;
+42;0;Tanques De Parafina;;;;Tanques de parafina do setor de vela e dos produtos de limpeza;1,59908E+12;;;;;;;;;
+43;0;Prensa Papel„o Prendedor;;;;Corta papel„o usado para juntar prededores de roupa;1,60371E+12;;;;;;;;;
+44;0;Port„o Doca 2;;;;Port„o de aÁo de correr;1,60373E+12;;;;;;;;;
+45;0;Taques ¡gua Sanit·ria;;;;Tanques de inox 4 metros;1,60373E+12;;;;;;;;;
+46;0;Carrinho De Carga 2 Rodas;;;;Carrionho de aÁo para ajudar alimentar os caminhıes de entrega;1,60374E+12;;;;;;;;;
+47;0;Manutencao;;;;Ajuste de maquinas;1,605E+12;;;;;;;;;
+48;0;Setor Vela;;;;;1,60511E+12;;;;;;;;;
+49;0;Rede Lauril;;;;;1,60519E+12;;;;;;;;;
+50;0;Palete Plataforma;;;;;1,60519E+12;;;;;;;;;
+51;0;SeguranÁa;;;;;1,60521E+12;;;;;;;;;
+52;0;Passa Fita Manual;;;;;1,60529E+12;;;;;;;;;
+53;0;Caminh„o;;;;;1,60564E+12;;;;;;;;;
+54;0;Cera Pasta;;;;FabricaÁ„o e embalabem de cera pasta;1,6057E+12;;;;;;;;;
+55;0;Tacho Sab„o Coco;;;;Tacho da linha de sab„o;1,6057E+12;;;;;;;;;
+56;0;Extrusora Sabao;;;;;1,6057E+12;;;;;;;;;
+57;0;Tacho Sab„o De Amarelo;;;;Tacho da linha de sab„o;1,6057E+12;;;;;;;;;
+58;0;Tacho Sab„o Amarelo;;;;Tacho da linha de sab„o;1,6057E+12;;;;;;;;;
+59;0;Tacho Sab„o Glicerinado;;;;Tacho da linha de sab„o;1,6057E+12;;;;;;;;;
+60;0;Elaborador De Sab„o;;;;;1,60571E+12;;;;;;;;;
+61;0;Tacho Sab„o Azul;;;;Tacho da linha de sab„o;1,60571E+12;;;;;;;;;
+62;0;Fogareiro Da Vela;;;;;1,60571E+12;;;;;;;;;
+63;0;Plataforma Guincho Sab„o;;;;;1,60571E+12;;;;;;;;;
+64;0;Chuveiro EmergÍncia;;;;Dispositivo de emergÍncia em caso de acidente com quimicos;1,6065E+12;;;;;;;;;
+65;0;Cera LÌquida;;;;Linha de cera para superficies de madeira;1,60675E+12;;;;;;;;;
+66;0;Alvejante Sem Cloro;;;;;1,60795E+12;;;;;;;;;
+67;0;Port„o Doca 01;;;;Port„o de aÁo de correr;1,6142E+12;;;;;;;;;
+68;0;Port„o Pequeno ¡gua Sanit·ria;;;;Port„o de aÁo de correr;1,61428E+12;;;;;;;;;
+69;0;Extintores De IncÍndio;;;;;1,61434E+12;;;;;;;;;
+70;0;Tanques De ¡gua Sanit·ria;;;;Tanque de inox 5 metros;1,61436E+12;;;;;;;;;
+71;0;Port„o F·brica RaÁ„o;;;;Port„o gradeado;1,61437E+12;;;;;;;;;
+72;0;Cocho ¡gua Sanit·ria;;;;;1,61469E+12;;;;;;;;;
+73;0;Pavilh„o ¡gua Sanit·ria;;;;;1,61469E+12;;;;;;;;;
+74;0;Casa Zavaski;;;;;1,61487E+12;;;;;;;;;
+75;0;Elevador Silo De Milho;;;;Elevador de caneco pro silo;1,6153E+12;;;;;;;;;
+76;0;Silo RaÁ„o;;;;;1,61599E+12;;;;;;;;;
+77;0;Rede Parafina;;;;Distribuidor de parafina derretida;1,61616E+12;;;;;;;;;
+78;0;Tacho De Parafina Retorno;;;;Retorno da rede de parafina;1,61617E+12;;;;;;;;;
+79;0;Portas Setor Sab„o;;;;Port„o de aÁo de correr;1,61676E+12;;;;;;;;;
+80;0;Calhas E Canaletas;;;;;1,61703E+12;;;;;;;;;
+81;0;Rede Cloro / Soda Caminh„o;;;;;1,61704E+12;;;;;;;;;
+82;0;Elaborador Base De Detergente;;;;Dispositivo de destagem de novos produtos;1,61722E+12;;;;;;;;;
+83;0;Tanques ¡gua Sanit·ria;;;;Tanques e armazenagem;1,61891E+12;;;;;;;;;
+84;0;oficina;;;;;1,62126E+12;;;;;;;;;
+85;0;arm·rio de ferro;;;;;1,62137E+12;;;;;;;;;
+86;0;tampador detergente 1L;;;;Colocador e clicador de tampa;1,6216E+12;;;;;;;;;
+87;0;TANQUE DO SAL;;;;;1,62549E+12;;;;;;;;;
+88;0;Tanque cebo;;;;;1,62672E+12;;;;;;;;;
+89;0;"Bomba rotor simples 1""  - 3 CV hipoclorito";;;;carcaÁa PVC selo de inox ;1,6268E+12;;;;;;;;;
+90;0;placas de identificaÁ„o seguranÁa;;;;;1,62705E+12;;;;;;;;;
+91;0;paleteira jacarÈ hidr·ulica;;;;;1,62706E+12;;;;;;;;;
+92;0;desinfetante tanque agitador;;;;;1,62706E+12;;;;;;;;;
